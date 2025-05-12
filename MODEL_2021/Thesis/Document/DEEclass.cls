@@ -180,8 +180,8 @@
 \RequirePackage[usenames, dvipsnames, svgnames, table]{xcolor} % Required for specifying custom colours
 \definecolor{lightgray}{rgb}{.9,.9,.9}
 
-\RequirePackage{graphicx} % Required to include images
-
+\RequirePackage{graphics} % Required to include images
+%\RequirePackage{graphicx} % Required to include images
 \graphicspath{{graphic}{graphic/logo}{graphic/icon}{graphic/figure}{image}{image/logo}{image/icon}{image/figure}{figure}} 	% Specifies where to look for included images
 
 \RequirePackage{booktabs} % Required for better table rules
@@ -245,7 +245,7 @@ columns=fullflexible
 
 \RequirePackage{siunitx} 		% required for \SI commands
 \RequirePackage[acronym,toc,shortcuts,acronymlists={hidden},nopostdot,nogroupskip,nonumberlist,automake]{glossaries} %for lists of terms, acronyms and symbols
-%\RequirePackage{paralist}
+\RequirePackage{paralist}
 \RequirePackage{enumitem} 		% for acronyms list spacing
 
 %----------------------------------------------------------------------------------------

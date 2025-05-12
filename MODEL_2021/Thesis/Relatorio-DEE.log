@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  12 MAY 2025 12:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  12 MAY 2025 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -212,9 +212,6 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \minrowclearance=\skip56
 \rownum=\count271
 )
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
@@ -227,42 +224,39 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen145
-\Gin@req@width=\dimen146
-)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen147
-\lightrulewidth=\dimen148
-\cmidrulewidth=\dimen149
-\belowrulesep=\dimen150
-\belowbottomsep=\dimen151
-\aboverulesep=\dimen152
-\abovetopsep=\dimen153
-\cmidrulesep=\dimen154
-\cmidrulekern=\dimen155
-\defaultaddspace=\dimen156
+\heavyrulewidth=\dimen145
+\lightrulewidth=\dimen146
+\cmidrulewidth=\dimen147
+\belowrulesep=\dimen148
+\belowbottomsep=\dimen149
+\aboverulesep=\dimen150
+\abovetopsep=\dimen151
+\cmidrulesep=\dimen152
+\cmidrulekern=\dimen153
+\defaultaddspace=\dimen154
 \@cmidla=\count272
 \@cmidlb=\count273
-\@aboverulesep=\dimen157
-\@belowrulesep=\dimen158
+\@aboverulesep=\dimen155
+\@belowrulesep=\dimen156
 \@thisruleclass=\count274
 \@lastruleclass=\count275
-\@thisrulewidth=\dimen159
+\@thisrulewidth=\dimen157
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen160
-\captionmargin=\dimen161
-\caption@leftmargin=\dimen162
-\caption@rightmargin=\dimen163
-\caption@width=\dimen164
-\caption@indent=\dimen165
-\caption@parindent=\dimen166
-\caption@hangindent=\dimen167
+\caption@tempdima=\dimen158
+\captionmargin=\dimen159
+\caption@leftmargin=\dimen160
+\caption@rightmargin=\dimen161
+\caption@width=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count276
@@ -349,7 +343,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count284
 )
-\@linkdim=\dimen168
+\@linkdim=\dimen166
 \Hy@linkcounter=\count285
 \Hy@pagecounter=\count286
  (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
@@ -379,7 +373,7 @@ Package hyperref Info: Bookmarks ON on input line 4448.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen169
+\XeTeXLinkMargin=\dimen167
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -390,8 +384,8 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count289
-\Field@Width=\dimen170
-\Fld@charsize=\dimen171
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -443,8 +437,8 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 199.
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count295
 \calc@Bcount=\count296
-\calc@Adimen=\dimen172
-\calc@Bdimen=\dimen173
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
 \calc@Askip=\skip58
 \calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
@@ -457,14 +451,14 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \lst@gtempboxa=\box59
 \lst@token=\toks24
 \lst@length=\count299
-\lst@currlwidth=\dimen174
+\lst@currlwidth=\dimen172
 \lst@column=\count300
 \lst@pos=\count301
-\lst@lostspace=\dimen175
-\lst@width=\dimen176
+\lst@lostspace=\dimen173
+\lst@width=\dimen174
 \lst@newlines=\count302
 \lst@lineno=\count303
-\lst@maxwidth=\dimen177
+\lst@maxwidth=\dimen175
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
@@ -555,8 +549,8 @@ y
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
 \pgfutil@everybye=\toks30
-\pgfutil@tempdima=\dimen178
-\pgfutil@tempdimb=\dimen179
+\pgfutil@tempdima=\dimen176
+\pgfutil@tempdimb=\dimen177
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
@@ -599,7 +593,7 @@ Package: siunitx 2024-06-24 v3.3.19 A comprehensive (SI) units package
 \l__siunitx_number_group_first_int=\count326
 \l__siunitx_number_group_size_int=\count327
 \l__siunitx_number_group_minimum_int=\count328
-\l__siunitx_angle_tmp_dim=\dimen180
+\l__siunitx_angle_tmp_dim=\dimen178
 \l__siunitx_angle_marker_box=\box63
 \l__siunitx_angle_unit_box=\box64
 \l__siunitx_compound_count_int=\count329
@@ -615,18 +609,18 @@ Package: amstext 2021/08/26 v2.01 AMS text
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks31
-\ex@=\dimen181
+\ex@=\dimen179
 ))
 \l__siunitx_table_tmp_box=\box65
-\l__siunitx_table_tmp_dim=\dimen182
-\l__siunitx_table_column_width_dim=\dimen183
+\l__siunitx_table_tmp_dim=\dimen180
+\l__siunitx_table_column_width_dim=\dimen181
 \l__siunitx_table_integer_box=\box66
 \l__siunitx_table_decimal_box=\box67
 \l__siunitx_table_uncert_box=\box68
 \l__siunitx_table_before_box=\box69
 \l__siunitx_table_after_box=\box70
-\l__siunitx_table_before_dim=\dimen184
-\l__siunitx_table_carry_dim=\dimen185
+\l__siunitx_table_before_dim=\dimen182
+\l__siunitx_table_carry_dim=\dimen183
 \l__siunitx_unit_tmp_int=\count330
 \l__siunitx_unit_position_int=\count331
 \l__siunitx_unit_total_int=\count332
@@ -652,7 +646,7 @@ Package: amsmath 2023/05/13 v2.17o AMS math features
 For additional information on amsmath, use the `?' option.
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen186
+\pmbraise@=\dimen184
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
@@ -674,7 +668,7 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen187
+\big@size=\dimen185
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \macc@depth=\count338
@@ -692,12 +686,12 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \column@=\count343
 \maxfields@=\count344
 \andhelp@=\toks35
-\eqnshift@=\dimen188
-\alignsep@=\dimen189
-\tagshift@=\dimen190
-\tagwidth@=\dimen191
-\totwidth@=\dimen192
-\lineht@=\dimen193
+\eqnshift@=\dimen186
+\alignsep@=\dimen187
+\tagshift@=\dimen188
+\tagwidth@=\dimen189
+\totwidth@=\dimen190
+\lineht@=\dimen191
 \@envbody=\toks36
 \multlinegap=\skip63
 \multlinetaggap=\skip64
@@ -812,19 +806,19 @@ Package: glossary-super 2024/04/03 v4.54 (NLCT)
 ar.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \c@tracingst=\count365
-\ST@wd=\dimen194
+\ST@wd=\dimen192
 \ST@rightskip=\skip70
 \ST@leftskip=\skip71
 \ST@parfillskip=\skip72
-\ST@pageleft=\dimen195
-\ST@headht=\dimen196
-\ST@tailht=\dimen197
-\ST@pagesofar=\dimen198
-\ST@pboxht=\dimen199
-\ST@rowht=\dimen256
-\ST@prevht=\dimen257
-\ST@toadd=\dimen258
-\ST@dimen=\dimen259
+\ST@pageleft=\dimen193
+\ST@headht=\dimen194
+\ST@tailht=\dimen195
+\ST@pagesofar=\dimen196
+\ST@pboxht=\dimen197
+\ST@rowht=\dimen198
+\ST@prevht=\dimen199
+\ST@toadd=\dimen256
+\ST@dimen=\dimen257
 \ST@pbox=\box73
 ))
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
@@ -832,11 +826,19 @@ ary-tree.sty
 Package: glossary-tree 2024/04/03 v4.54 (NLCT)
 \glstreeindent=\skip73
 ))
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/paralist\paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip74
+\plpartopsep=\skip75
+\plitemsep=\skip76
+\plparsep=\skip77
+\pl@lab=\toks44
+)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip74
-\enit@outerparindent=\dimen260
-\enit@toks=\toks44
+\labelindent=\skip78
+\enit@outerparindent=\dimen258
+\enit@toks=\toks45
 \enit@inbox=\box74
 \enit@count@id=\count366
 \enitdp@description=\count367
@@ -867,15 +869,15 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@cnth=\count371
 \Gm@cntv=\count372
 \c@Gm@tempcnt=\count373
-\Gm@bindingoffset=\dimen261
-\Gm@wd@mp=\dimen262
-\Gm@odd@mp=\dimen263
-\Gm@even@mp=\dimen264
-\Gm@layoutwidth=\dimen265
-\Gm@layoutheight=\dimen266
-\Gm@layouthoffset=\dimen267
-\Gm@layoutvoffset=\dimen268
-\Gm@dimlist=\toks45
+\Gm@bindingoffset=\dimen259
+\Gm@wd@mp=\dimen260
+\Gm@odd@mp=\dimen261
+\Gm@even@mp=\dimen262
+\Gm@layoutwidth=\dimen263
+\Gm@layoutheight=\dimen264
+\Gm@layouthoffset=\dimen265
+\Gm@layoutvoffset=\dimen266
+\Gm@dimlist=\toks46
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 
@@ -888,7 +890,7 @@ ace for scrlayer)
 y
 Package: scrlayer 2023/07/07 v3.41 KOMA-Script package (defining layers and pag
 e styles)
-\footheight=\skip75
+\footheight=\skip79
 Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 218
 3.
 )
@@ -902,8 +904,8 @@ Package scrbase Info: Unknown processing state.
 1: chapter
 1: chapter
 1: section
-\myheight=\skip76
-\mydepth=\skip77
+\myheight=\skip80
+\mydepth=\skip81
 ) (input/preamble.tex
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -923,9 +925,9 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count374
-\float@exts=\toks46
+\float@exts=\toks47
 \float@box=\box75
-\@float@everytoks=\toks47
+\@float@everytoks=\toks48
 \@floatcapt=\box76
 )
 Package scrhack Info: loading float hack on input line 11.
@@ -939,10 +941,10 @@ Package scrhack Info: undefining \float@addtolists on input line 163.
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip78
+\multirow@colwidth=\skip82
 \multirow@cntb=\count375
-\multirow@dima=\skip79
-\bigstrutjot=\dimen269
+\multirow@dima=\skip83
+\bigstrutjot=\dimen267
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
@@ -960,11 +962,11 @@ File: lscape.hak 2023/07/07 v3.41 KOMA-Script scrhack part (hacking package lsc
 ape)
 Package scrhack Info: \landscape patched to make \textheight change optional on
  input line 90.
-\scrh@LT@textheight=\skip80
+\scrh@LT@textheight=\skip84
 ) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks48
-\verbatim@line=\toks49
+\every@verbatim=\toks49
+\verbatim@line=\toks50
 \verbatim@in@stream=\read3
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/babelbib\babelbib.sty
@@ -986,22 +988,22 @@ LaTeX Info: Redefining \_ on input line 43.
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count382
 \mult@box=\box77
-\multicol@leftmargin=\dimen270
+\multicol@leftmargin=\dimen268
 \c@unbalance=\count383
 \c@collectmore=\count384
 \doublecol@number=\count385
 \multicoltolerance=\count386
 \multicolpretolerance=\count387
-\full@width=\dimen271
-\page@free=\dimen272
-\premulticols=\dimen273
-\postmulticols=\dimen274
-\multicolsep=\skip81
-\multicolbaselineskip=\skip82
+\full@width=\dimen269
+\page@free=\dimen270
+\premulticols=\dimen271
+\postmulticols=\dimen272
+\multicolsep=\skip85
+\multicolbaselineskip=\skip86
 \partial@page=\box78
 \last@line=\box79
 \mc@boxedresult=\box80
-\maxbalancingoverflow=\dimen275
+\maxbalancingoverflow=\dimen273
 \mult@rightbox=\box81
 \mult@grightbox=\box82
 \mult@firstbox=\box83
@@ -1045,28 +1047,28 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@minrows=\count388
 \c@columnbadness=\count389
 \c@finalcolumnbadness=\count390
-\last@try=\dimen276
-\multicolovershoot=\dimen277
-\multicolundershoot=\dimen278
+\last@try=\dimen274
+\multicolovershoot=\dimen275
+\multicolundershoot=\dimen276
 \mult@nat@firstbox=\box121
 \colbreak@box=\box122
 \mc@col@check@num=\count391
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen279
+\rotheadsize=\dimen277
 \c@nlinenum=\count392
-\TeXr@lab=\toks50
+\TeXr@lab=\toks51
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen280
-\TX@old@table=\dimen281
-\TX@old@col=\dimen282
-\TX@target=\dimen283
-\TX@delta=\dimen284
+\TX@col@width=\dimen278
+\TX@old@table=\dimen279
+\TX@old@col=\dimen280
+\TX@target=\dimen281
+\TX@delta=\dimen282
 \TX@cols=\count393
-\TX@ftn=\toks51
+\TX@ftn=\toks52
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
@@ -1077,6 +1079,11 @@ Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen283
+\Gin@req@width=\dimen284
+)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
 ty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
@@ -1132,10 +1139,10 @@ Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \c@r@tfl@t=\count402
-\rotFPtop=\skip83
-\rotFPbot=\skip84
+\rotFPtop=\skip87
+\rotFPbot=\skip88
 \rot@float@box=\box126
-\rot@mess@toks=\toks52
+\rot@mess@toks=\toks53
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/romannum\romannum.sty
 Package: romannum 2009/09/03 v1.0b roman numerals
@@ -1174,9 +1181,9 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \c@pgf@countb=\count404
 \c@pgf@countc=\count405
 \c@pgf@countd=\count406
-\t@pgf@toka=\toks53
-\t@pgf@tokb=\toks54
-\t@pgf@tokc=\toks55
+\t@pgf@toka=\toks54
+\t@pgf@tokb=\toks55
+\t@pgf@tokc=\toks56
 \pgf@sys@id@count=\count407
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
@@ -1216,9 +1223,9 @@ r.code.tex
 \pgfmath@dimen=\dimen309
 \pgfmath@count=\count410
 \pgfmath@box=\box127
-\pgfmath@toks=\toks56
-\pgfmath@stack@operand=\toks57
-\pgfmath@stack@operation=\toks58
+\pgfmath@toks=\toks57
+\pgfmath@stack@operand=\toks58
+\pgfmath@stack@operation=\toks59
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex)
@@ -1371,8 +1378,8 @@ code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen336
 \pgffor@skip=\dimen337
-\pgffor@stack=\toks59
-\pgffor@toks=\toks60
+\pgffor@stack=\toks60
+\pgffor@toks=\toks61
 ))
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -1642,12 +1649,12 @@ ii
 \scratchbox=\box140
 \nofMPsegments=\count446
 \nofMParguments=\count447
-\everyMPshowfont=\toks61
+\everyMPshowfont=\toks62
 \MPscratchCnt=\count448
 \MPscratchDim=\dimen372
 \MPnumerator=\count449
 \makeMPintoPDFobject=\count450
-\everyMPtoPDFconversion=\toks62
+\everyMPtoPDFconversion=\toks63
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -2604,13 +2611,13 @@ Package rerunfilecheck Info: File `Relatorio-DEE.brf' has not changed.
 (rerunfilecheck)             Checksum: 1CF9AA6D8C811E0BCFB4419A1BBAAE7E;885.
  ) 
 Here is how much of TeX's memory you used:
- 70006 strings out of 474486
- 1631264 string characters out of 5743756
- 2733051 words of memory out of 5000000
- 89669 multiletter control sequences out of 15000+600000
+ 70146 strings out of 474486
+ 1633462 string characters out of 5743756
+ 2735160 words of memory out of 5000000
+ 89805 multiletter control sequences out of 15000+600000
  693496 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,22n,107p,2415b,2638s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,22n,107p,2385b,2638s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
