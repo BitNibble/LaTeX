@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  12 MAY 2025 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  12 MAY 2025 17:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1564,7 +1564,13 @@ tage.tex
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccur
 rent.tex)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflo
-w.tex))) (input/NewCommands.tex
+w.tex))
+\@indexfile=\write4
+\openout4 = `Relatorio-DEE.idx'.
+
+
+Writing index file Relatorio-DEE.idx
+) (input/NewCommands.tex
 \c@definition=\count444
 ) (input/title_parameter.tex)
 runsystem(makeindex -s Relatorio-DEE.ist -t Relatorio-DEE.glg -o Relatorio-DEE.
@@ -1579,29 +1585,29 @@ syi Relatorio-DEE.syg)...executed safely (allowed).
 runsystem(makeindex -s Relatorio-DEE.ist -t Relatorio-DEE.algh -o Relatorio-DEE
 .acrh Relatorio-DEE.acnh)...executed safely (allowed).
 
-\glswrite=\write4
-\glo@main@file=\write5
-\openout5 = `Relatorio-DEE.glo'.
+\glswrite=\write5
+\glo@main@file=\write6
+\openout6 = `Relatorio-DEE.glo'.
 
 Package glossaries Info: Writing glossary file Relatorio-DEE.glo on input line 
 30.
-\glo@acronym@file=\write6
-\openout6 = `Relatorio-DEE.acn'.
+\glo@acronym@file=\write7
+\openout7 = `Relatorio-DEE.acn'.
 
 Package glossaries Info: Writing glossary file Relatorio-DEE.acn on input line 
 30.
-\glo@symbolslist@file=\write7
-\openout7 = `Relatorio-DEE.syg'.
+\glo@symbolslist@file=\write8
+\openout8 = `Relatorio-DEE.syg'.
 
 Package glossaries Info: Writing glossary file Relatorio-DEE.syg on input line 
 30.
-\glo@hidden@file=\write8
-\openout8 = `Relatorio-DEE.acnh'.
+\glo@hidden@file=\write9
+\openout9 = `Relatorio-DEE.acnh'.
 
 Package glossaries Info: Writing glossary file Relatorio-DEE.acnh on input line
  30.
-
-(input/glossary.tex) (input/acronyms.tex) (input/symbols.tex)
+ (input/glossary.tex)
+(input/acronyms.tex) (input/symbols.tex)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 37
@@ -1675,8 +1681,8 @@ Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 37.
  (Relatorio-DEE.out) (Relatorio-DEE.out)
-\@outlinefile=\write9
-\openout9 = `Relatorio-DEE.out'.
+\@outlinefile=\write10
+\openout10 = `Relatorio-DEE.out'.
 
 \c@lstlisting=\count451
 Package scrhack Info: undefining \float@addtolists on input line 37.
@@ -1766,7 +1772,7 @@ Package pdftex.def Info: image/logo/ISEP_logo.jpg  used on input line 6.
 (pdftex.def)             Requested size: 184.9429pt x 70.4258pt.
 [1
 
-\openout4 = `Relatorio-DEE.ist'.
+\openout5 = `Relatorio-DEE.ist'.
 
 
 
@@ -1925,8 +1931,8 @@ been already used, duplicate ignored
                    \relax 
 l.30 ...r}{\numberline {A}Código}{47}{appendix.A}
                                                   % [5])
-\tf@toc=\write10
-\openout10 = `Relatorio-DEE.toc'.
+\tf@toc=\write11
+\openout11 = `Relatorio-DEE.toc'.
 
 )
 pdfTeX warning (ext4): destination with the same identifier (name{page.vi}) has
@@ -1939,8 +1945,8 @@ l.50 \include{./include/content}
 
  (include/frontmatterlist.tex
 (Relatorio-DEE.lof)
-\tf@lof=\write11
-\openout11 = `Relatorio-DEE.lof'.
+\tf@lof=\write12
+\openout12 = `Relatorio-DEE.lof'.
 
 
 1: section
@@ -1952,8 +1958,8 @@ l.50 \include{./include/content}
 {C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/
 Users/sergi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
 [8] (Relatorio-DEE.lot)
-\tf@lot=\write12
-\openout12 = `Relatorio-DEE.lot'.
+\tf@lot=\write13
+\openout13 = `Relatorio-DEE.lot'.
 
 
 1: section
@@ -1962,8 +1968,8 @@ Users/sergi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
 ] [10
 
 ] (Relatorio-DEE.lol)
-\tf@lol=\write13
-\openout13 = `Relatorio-DEE.lol'.
+\tf@lol=\write14
+\openout14 = `Relatorio-DEE.lol'.
 
  (Relatorio-DEE.gls) (Relatorio-DEE.acr
 1: section
@@ -2481,8 +2487,8 @@ Cap\'{\i }tulo 6.
 )
 1: section
 [43] [44] (Relatorio-DEE.bbl (Relatorio-DEE.brf)
-\tf@brf=\write14
-\openout14 = `Relatorio-DEE.brf'.
+\tf@brf=\write15
+\openout15 = `Relatorio-DEE.brf'.
 
 )
 1: section
@@ -2611,9 +2617,9 @@ Package rerunfilecheck Info: File `Relatorio-DEE.brf' has not changed.
 (rerunfilecheck)             Checksum: 1CF9AA6D8C811E0BCFB4419A1BBAAE7E;885.
  ) 
 Here is how much of TeX's memory you used:
- 70146 strings out of 474486
- 1633462 string characters out of 5743756
- 2735160 words of memory out of 5000000
+ 70147 strings out of 474486
+ 1633466 string characters out of 5743756
+ 2735108 words of memory out of 5000000
  89805 multiletter control sequences out of 15000+600000
  693496 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
