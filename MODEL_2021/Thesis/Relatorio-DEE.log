@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  12 MAY 2025 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  12 MAY 2025 18:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1564,15 +1564,15 @@ tage.tex
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccur
 rent.tex)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflo
-w.tex))
+w.tex))) (input/NewCommands.tex
+\c@definition=\count444
+) (input/title_parameter.tex)
 \@indexfile=\write4
 \openout4 = `Relatorio-DEE.idx'.
 
 
 Writing index file Relatorio-DEE.idx
-) (input/NewCommands.tex
-\c@definition=\count444
-) (input/title_parameter.tex)
+(input/glossary.tex) (input/acronyms.tex) (input/symbols.tex)
 runsystem(makeindex -s Relatorio-DEE.ist -t Relatorio-DEE.glg -o Relatorio-DEE.
 gls Relatorio-DEE.glo)...executed safely (allowed).
 
@@ -1590,27 +1590,25 @@ runsystem(makeindex -s Relatorio-DEE.ist -t Relatorio-DEE.algh -o Relatorio-DEE
 \openout6 = `Relatorio-DEE.glo'.
 
 Package glossaries Info: Writing glossary file Relatorio-DEE.glo on input line 
-30.
+35.
 \glo@acronym@file=\write7
 \openout7 = `Relatorio-DEE.acn'.
 
 Package glossaries Info: Writing glossary file Relatorio-DEE.acn on input line 
-30.
+35.
 \glo@symbolslist@file=\write8
 \openout8 = `Relatorio-DEE.syg'.
 
 Package glossaries Info: Writing glossary file Relatorio-DEE.syg on input line 
-30.
+35.
 \glo@hidden@file=\write9
 \openout9 = `Relatorio-DEE.acnh'.
 
 Package glossaries Info: Writing glossary file Relatorio-DEE.acnh on input line
- 30.
- (input/glossary.tex)
-(input/acronyms.tex) (input/symbols.tex)
+ 35.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 37
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 39
 .
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
@@ -1628,24 +1626,24 @@ Package babel Info: Importing basic data for english
 (include/appendixA.aux))
 \openout1 = `Relatorio-DEE.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1679,39 +1677,39 @@ Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 39.
  (Relatorio-DEE.out) (Relatorio-DEE.out)
 \@outlinefile=\write10
 \openout10 = `Relatorio-DEE.out'.
 
 \c@lstlisting=\count451
-Package scrhack Info: undefining \float@addtolists on input line 37.
+Package scrhack Info: undefining \float@addtolists on input line 39.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 37.
+rtuges.trsl' found. on input line 39.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
 saries-dictionary-English.dict
 Dictionary: glossaries-dictionary, Language: English 
 )
-Package scrbase Info: activating portuguese \reftocname on input line 37.
-Package scrbase Info: activating portuguese \degreetemp on input line 37.
-Package scrbase Info: activating portuguese \disclamertemp on input line 37.
-Package scrbase Info: activating portuguese \studentlabel on input line 37.
-Package scrbase Info: activating portuguese \nblabel on input line 37.
-Package scrbase Info: activating portuguese \advisorlabel on input line 37.
-Package scrbase Info: activating portuguese \coadvisorlabel on input line 37.
-Package scrbase Info: activating portuguese \supervisorlabel on input line 37.
-Package scrbase Info: activating portuguese \companylabel on input line 37.
+Package scrbase Info: activating portuguese \reftocname on input line 39.
+Package scrbase Info: activating portuguese \degreetemp on input line 39.
+Package scrbase Info: activating portuguese \disclamertemp on input line 39.
+Package scrbase Info: activating portuguese \studentlabel on input line 39.
+Package scrbase Info: activating portuguese \nblabel on input line 39.
+Package scrbase Info: activating portuguese \advisorlabel on input line 39.
+Package scrbase Info: activating portuguese \coadvisorlabel on input line 39.
+Package scrbase Info: activating portuguese \supervisorlabel on input line 39.
+Package scrbase Info: activating portuguese \companylabel on input line 39.
 Package scrbase Info: activating portuguese \acknowledgementname on input line 
-37.
-Package scrbase Info: activating portuguese \abstraclabel on input line 37.
-Package scrbase Info: activating portuguese \keywordslabel on input line 37.
-Package scrbase Info: activating portuguese \acronymsname on input line 37.
-Package scrbase Info: activating portuguese \symbolsname on input line 37.
-Package scrbase Info: activating portuguese \symbolsSymbol on input line 37.
+39.
+Package scrbase Info: activating portuguese \abstraclabel on input line 39.
+Package scrbase Info: activating portuguese \keywordslabel on input line 39.
+Package scrbase Info: activating portuguese \acronymsname on input line 39.
+Package scrbase Info: activating portuguese \symbolsname on input line 39.
+Package scrbase Info: activating portuguese \symbolsSymbol on input line 39.
 Package scrbase Info: activating portuguese \symbolsDescription on input line 3
-7.
-Package scrbase Info: activating portuguese \symbolsUnits on input line 37.
+9.
+Package scrbase Info: activating portuguese \symbolsUnits on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1904,7 +1902,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \include{./include/abstract}
+l.50 \include{./include/abstract}
                                  			% Edit the file to write the document Ab...
 [3
 
@@ -1939,7 +1937,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.vi}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.50 \include{./include/content}
+l.52 \include{./include/content}
                                  [6]
 \openout2 = `./include/frontmatterlist.aux'.
 
@@ -2598,7 +2596,7 @@ Overfull \hbox (2.43332pt too wide) in paragraph at lines 25--20
 
  <./image/General/Einstein.jpg>]) [72]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 77.
+(Font)              <9> on input line 79.
  [73
 
 
@@ -2619,7 +2617,7 @@ Package rerunfilecheck Info: File `Relatorio-DEE.brf' has not changed.
 Here is how much of TeX's memory you used:
  70147 strings out of 474486
  1633466 string characters out of 5743756
- 2735108 words of memory out of 5000000
+ 2735106 words of memory out of 5000000
  89805 multiletter control sequences out of 15000+600000
  693496 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
