@@ -1,0 +1,5 @@
+This is makeindex, version 2.16 [MiKTeX 24.1].
+Scanning style file ./Relatorio_1.ist...........................done (27 attributes redefined, 0 ignored).
+Scanning input file Relatorio_1.acn...done (0 entries accepted, 0 rejected).
+Nothing written in Relatorio_1.acr.
+Transcript written in Relatorio_1.alg.
