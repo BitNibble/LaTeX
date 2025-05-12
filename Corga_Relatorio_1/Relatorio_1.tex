@@ -1,6 +1,8 @@
-\input{./input/ReportPreamble}
+%\documentclass[titlepage, a4paper, 12pt, reqno, openany]{report}
+\documentclass[titlepage, a4paper, reqno, openany]{report}
+\input{./input/report/ReportPreamble}
 \input{./input/NewCommand}
-\input{./input/TitlePage}
+\input{./input/title/TitlePage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeindex
@@ -15,6 +17,8 @@
 %\numberwithin{page}{section}
 %\renewcommand{\abstractname}{Executive Summary}
 \setlength{\parindent}{0in}
+\pagenumbering{arabic}
+\setcounter{page}{1}
 
 \include{./include/mainmatter/section1} % Introduction
 \include{./include/mainmatter/section2} % Revisão da Literatura
