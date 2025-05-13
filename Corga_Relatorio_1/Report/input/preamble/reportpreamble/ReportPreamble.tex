@@ -9,15 +9,14 @@
 %%		review: 24032023
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{etoolbox}
-\usepackage{xparse}
+% preloaded:
+% longtable, xcolor, graphicx, booktabs, caption, csquotes, hyperref,
+% calc, listings, datetime2, siunitx, geometry, enumitem
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
-%\usepackage{babel}
-%\usepackage[portuguese]{babel}
-\usepackage[portuguese, english]{babel}
+\usepackage[portuguese]{babel}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{scrbase} % Required for handling language-dependent names of sections/document elements
 \usepackage{scrhack} % Loads fixes for various packages
@@ -25,8 +24,6 @@
 \usepackage[dvipsnames, svgnames, table]{xcolor} % Required for specifying custom colours
 \usepackage{graphics}
 \usepackage{booktabs}
-\usepackage[font=small, labelfont=bf]{caption}
-\usepackage{subcaption}
 \usepackage[autostyle=true]{csquotes}
 \usepackage[hidelinks]{hyperref}
 \usepackage{calc}
@@ -35,13 +32,10 @@
 %\usepackage[calc, en-US]{datetime2}
 \usepackage{siunitx}
 \usepackage{paralist}
-\usepackage{enumitem} %%conflict never put enumitem with enumerate
-%\usepackage{enumerate} %%conflict never put enumitem with enumerate
 \usepackage{makeidx}
 \usepackage{titlepic}
 \usepackage{ragged2e}
 \usepackage{blindtext}
-\usepackage{hyphenat}
 \usepackage{hyphsubst}
 \usepackage[top=2cm,left=1.5cm,right=1.2cm,bottom=2cm]{geometry}
 \usepackage{graphicx}
@@ -52,48 +46,15 @@
 %%%%%%%%%%%%%FIXED ORDER%%%%%%%%%FIXED ORDER%%%%%%%%%%%%%%
 %\usepackage[shortcuts, nopostdot, acronym, toc, nogroupskip, nonumberlist, automake]{glossaries}
 \usepackage[acronym, toc, shortcuts, acronymlists={hidden}, nopostdot, nogroupskip, nonumberlist, automake=immediate]{glossaries} %for lists of terms, acronyms and symbols
-%\usepackage{babelbib}
-\usepackage[portuguese]{babelbib}
-%\usepackage[portuguese, english]{babelbib}
 %\usepackage[nottoc]{tocbibind}
-%%APPENDIX SETTINGS%%
-%\usepackage[title, toc, titletoc, page]{appendix}
-\usepackage[toc, page]{appendix}
-%%%%%%%%%%%%%%%%%%%%%
-\usepackage{verbatim}
-\usepackage{pgfgantt}
-\usepackage{url}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{multicol}
-\usepackage{makecell}
-\usepackage{array}
-\usepackage{tabularx}
-\usepackage[export]{adjustbox}
-\usepackage{eurosym}
-\usepackage{float}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
-\usepackage{mathrsfs}
-\usepackage{multirow}
-\usepackage{lscape}
+\input{./input/preamble/extrapreamble/ExtraPreamble}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[hyperpageref]{backref}
-\usepackage{setspace}
 \usepackage[markcase=used]{scrlayer-scrpage}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{lipsum}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{moreverb}
-\usepackage{rotating}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{romannum}
-\usepackage{tikz}
-\usepackage{circuitikz}
-\usetikzlibrary{matrix, shapes.geometric, arrows, trees, positioning, calc}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \graphicspath{{image/}{image/logo/}{figure/}}
+\usetikzlibrary{matrix, shapes.geometric, arrows, trees, positioning, calc}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \bibliographystyle{babplain}
 %\bibliographystyle{plain}

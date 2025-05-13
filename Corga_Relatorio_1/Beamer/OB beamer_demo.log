@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  13 MAY 2025 15:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  13 MAY 2025 21:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1714,76 +1714,76 @@ rtuges.trsl' found. on input line 7.
 File: ./image/Career_Path/Progressao.png Graphic file (type png)
 <use ./image/Career_Path/Progressao.png>
 Package pdftex.def Info: ./image/Career_Path/Progressao.png  used on input line
- 22.
+ 21.
 (pdftex.def)             Requested size: 216.41174pt x 122.6099pt.
 
-Overfull \hbox (17.24245pt too wide) in paragraph at lines 22--22
+Overfull \hbox (17.24245pt too wide) in paragraph at lines 21--21
 []  
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-22.
+21.
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-2.
+1.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-22.
+21.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-22.
+21.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 22.
+(Font)              <10.95> on input line 21.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 21.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 22.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+(Font)              <6> on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
 
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
 
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 22
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 21
 .
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 22.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 22.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 22.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 21.
 <./image/Career_Path/Old_Age.jpeg, id=76, 164.615pt x 252.945pt>
 File: ./image/Career_Path/Old_Age.jpeg Graphic file (type jpg)
 <use ./image/Career_Path/Old_Age.jpeg>
 Package pdftex.def Info: ./image/Career_Path/Old_Age.jpeg  used on input line 2
-2.
+1.
 (pdftex.def)             Requested size: 41.15364pt x 63.23608pt.
 <./image/Career_Path/Burial.jpeg, id=77, 1284.8pt x 722.7pt>
 File: ./image/Career_Path/Burial.jpeg Graphic file (type jpg)
 <use ./image/Career_Path/Burial.jpeg>
-Package pdftex.def Info: ./image/Career_Path/Burial.jpeg  used on input line 22
+Package pdftex.def Info: ./image/Career_Path/Burial.jpeg  used on input line 21
 .
 (pdftex.def)             Requested size: 128.48752pt x 72.27423pt.
 

@@ -1,6 +1,6 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-					%%%SPACING%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+							%%%SPACING%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\minipagespace}[1]{\hfill  \vspace{#1} \newline}
 \newcommand{\emptyline}{\hfill \vspace{\baselineskip} \newline}
 \newcommand{\emptyspace}[1]{\hfill \vspace{#1} \newline}
@@ -9,23 +9,32 @@
 \newcommand{\graphicspace}[1]{\hfill \vspace{#1} \newline}
 \newcommand{\listingspace}[1]{\hfill \vspace{#1} \newline}
 \newcommand{\equationspace}[1]{\hfill \vspace{#1} \newline}
-%%%%%%%%%%%%%FIX SECTION NUMBERING IN CASE REPORT%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addto{\captionsportuguese}{\renewcommand*\contentsname{\'{I}ndice}}
+\addto{\captionsportuguese}{\renewcommand*\lstlistingname{Listagen}}
+\addto{\captionsportuguese}{\renewcommand*\lstlistlistingname{Listagens}}
+\addto{\captionsportuguese}{\renewcommand*\acronymname{Acrónimos}}
+\addto{\captionsportuguese}{\renewcommand{\bibname}{Refer\^{e}ncias}}
+\addto{\captionsportuguese}{\renewcommand{\appendixname}{Anexo}}
+\addto{\captionsportuguese}{\renewcommand{\appendixpagename}{Anexos}}
+\addto{\captionsportuguese}{\renewcommand{\appendixtocname}{Anexos}}
+%%%%%%%%%%%%%FIX SECTION NUMBERING IN CASE REPORT%%%%%%%%%%%%%%%%%%%%%%
 %\renewcommand\thesection{\arabic{section}}
 %\renewcommand\thesubsection{\thesection.\arabic{subsection}}
 %\renewcommand\thesubsubsection{\thesection.\thesubsection.\arabic{subsubsection}}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand\acrfullr[2][]{\acrshort[#1]{#2} (\acrlong[#1]{#2})}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \def\mcirc{\mathbin{\scalerel*{\bigcirc}{t}}}
 \def\msquare{\mathord{\scalerel*{\Box}{gX}}}
 \def\ce{\mathrm{e}}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\date{\rule[180pt]{0pt}{5pt}}
-%%%%%%%%%%%%%%%%%%%%%%%%FIX SECTION NUMBERING IN CASE REPORT%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%FIX SECTION NUMBERING IN CASE REPORT%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand\thesection{\arabic{section}}
 \renewcommand\thesubsection{\thesection.\arabic{subsection}}
 \renewcommand\thesubsubsection{\thesection.\thesubsection.\arabic{subsubsection}}

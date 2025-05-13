@@ -29,27 +29,16 @@
 \usepackage{tabularx}
 \usepackage[export]{adjustbox}
 \usepackage{eurosym}
-%\usepackage{enumerate}
+\usepackage{enumitem} %% conflict never put enumitem with enumerate
+%\usepackage{enumerate} %% conflict never put enumitem with enumerate
 \usepackage{longtable}
 \usepackage{setspace}
 \usepackage{lipsum}
 \usepackage{moreverb}
 \usepackage{rotating}
 \usepackage{romannum}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{pgfgantt}
 \usepackage{tikz}
 \usepackage{circuitikz}
-%%%%%%%%%%%%%%%%%%%%%% temp packages
-\usepackage{lipsum}						% for fake text
-%\usepackage[textsize=tiny]{todonotes}   % enable To-do notes, use the option "disable" to hide all notes, usage \todo{}
-%\usepackage{draftwatermark}			% prints a watermark overlay, uncomment if needed
-%\SetWatermarkText{**DRAFT**}
-%\SetWatermarkScale{1}
-%\SetWatermarkColor[gray]{0.8}
-%%%%%%%%%%%%%%%%%%%%%%% settings
-\AtBeginDocument{					% Rendered PDF metadata:
-\hypersetup{pdftitle=\ttitle} 		% Sets the PDF title to your dissertation title
-\hypersetup{pdfauthor=\authorname} 	% Sets the PDF author to your name
-}
-%%%%%%%%%%%%%%%%%%%%%%% user defined macros
-%....
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
