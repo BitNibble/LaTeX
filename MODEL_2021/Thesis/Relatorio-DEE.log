@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  12 MAY 2025 18:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  13 MAY 2025 02:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2617,7 +2617,7 @@ Package rerunfilecheck Info: File `Relatorio-DEE.brf' has not changed.
 Here is how much of TeX's memory you used:
  70147 strings out of 474486
  1633466 string characters out of 5743756
- 2735106 words of memory out of 5000000
+ 2735105 words of memory out of 5000000
  89805 multiletter control sequences out of 15000+600000
  693496 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
