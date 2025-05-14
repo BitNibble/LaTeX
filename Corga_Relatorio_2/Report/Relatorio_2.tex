@@ -1,15 +1,22 @@
 \documentclass[titlepage, a4paper, reqno, openany]{report}
-%\documentclass[titlepage, a4paper, 12pt, reqno, openany]{report}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./input/preamble/reportpreamble/ReportPreamble}
+\input{./input/preamble/extrapreamble/ExtraPreamble}
 \input{./input/NewCommand}
 \input{./input/reporttitle/ReportTitle_2}
 \input{./input/frontmatter/glossary_2}
+\input{./input/frontmatter/acronym_1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeindex
 \makeglossaries
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\maketitle
+\include{./include/mainmatter/abstract_2}
 \include{./include/frontmatter/front}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \pagestyle{plain} %plain headings empty
 \setlength{\parindent}{0in}
@@ -22,8 +29,6 @@
 
 \bibliography{./bibliography/Bibliography}
 \appendix
-\newpage
-\printindex
 \newpage
 \footnote{Apontamento}
 \end{document}

@@ -1,21 +1,28 @@
-%\documentclass[titlepage, a4paper, 12pt, reqno, openany]{report}
 \documentclass[titlepage, a4paper, reqno, openany]{report}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./input/preamble/reportpreamble/ReportPreamble}
+\input{./input/preamble/extrapreamble/ExtraPreamble}
 \input{./input/NewCommand}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./input/reporttitle/ReportTitle_1}
 \input{./input/frontmatter/glossary_2}
 \input{./input/frontmatter/acronym_1}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeindex
 \makeglossaries
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+						\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\maketitle
+\include{./include/mainmatter/abstract_1}
 \include{./include/frontmatter/front}
+%%%%%%%%%%%% examples %%%%%%%%%%%%
 %\gls{gloss}
 %\ac{twi}
 %\todo[inline]{Most up to date model 14052025}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \pagestyle{plain} %plain headings empty
 \setlength{\parindent}{0in}
@@ -33,7 +40,6 @@
 \bibliography{./bibliography/Bibliography}
 \newpage
 \appendix
-\printindex
 \newpage
 \footnote{Apontamento}
 \end{document}
@@ -262,3 +268,5 @@ A vida ensina e se não aprendemos ela insiste e persiste até morrermos.\\
 A liberdade é medida pela quantidade de ética e moralidade presente na sociedade.\\
 Respect is always earned never a given.\\
 \end{comment}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

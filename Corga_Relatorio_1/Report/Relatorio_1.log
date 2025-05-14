@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 20:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -765,6 +765,26 @@ Package: supertabular 2024/07/20 v4.2c the supertabular environment
 ary-tree.sty
 Package: glossary-tree 2024/04/03 v4.54 (NLCT)
 \glstreeindent=\skip90
+))
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-sc
+rpage.sty
+Package: scrlayer-scrpage 2023/07/07 v3.41 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.st
+y
+Package: scrlayer 2023/07/07 v3.41 KOMA-Script package (defining layers and pag
+e styles)
+\footheight=\skip91
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 218
+3.
+)
+Package scrbase Info: Unknown processing state.
+(scrbase)             Processing option `markcase=used'
+(scrbase)             of member `.scrlayer-scrpage.sty' of family
+(scrbase)             `KOMA' doesn't set
+(scrbase)             a valid state. This will be interpreted
+(scrbase)             as \FamilyKeyStateProcessed on input line 649.
 )) (input/preamble/extrapreamble/ExtraPreamble.tex
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -800,9 +820,9 @@ Package scrhack Info: undefining \float@addtolists on input line 163.
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip91
+\multirow@colwidth=\skip92
 \multirow@cntb=\count375
-\multirow@dima=\skip92
+\multirow@dima=\skip93
 \bigstrutjot=\dimen256
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
@@ -848,7 +868,7 @@ File: lscape.hak 2023/07/07 v3.41 KOMA-Script scrhack part (hacking package lsc
 ape)
 Package scrhack Info: \landscape patched to make \textheight change optional on
  input line 90.
-\scrh@LT@textheight=\skip93
+\scrh@LT@textheight=\skip94
 ) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks48
@@ -869,8 +889,8 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \page@free=\dimen267
 \premulticols=\dimen268
 \postmulticols=\dimen269
-\multicolsep=\skip94
-\multicolbaselineskip=\skip95
+\multicolsep=\skip95
+\multicolbaselineskip=\skip96
 \partial@page=\box78
 \last@line=\box79
 \mc@boxedresult=\box80
@@ -977,7 +997,7 @@ Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box124
 ) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip96
+\labelindent=\skip97
 \enit@outerparindent=\dimen294
 \enit@toks=\toks52
 \enit@inbox=\box125
@@ -1012,8 +1032,8 @@ Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \c@r@tfl@t=\count402
-\rotFPtop=\skip97
-\rotFPbot=\skip98
+\rotFPtop=\skip98
+\rotFPbot=\skip99
 \rot@float@box=\box126
 \rot@mess@toks=\toks53
 )
@@ -1161,7 +1181,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip99
+\Hy@SectionHShift=\skip100
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
 Package: backref 2023-11-26 v1.44 Bibliographical back referencing
@@ -1580,31 +1600,11 @@ tage.tex
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccur
 rent.tex)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflo
-w.tex)))
+w.tex))
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
 Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
 Package: todonotes 2024/01/05
 \c@@todonotes@numberoftodonotes=\count459
-)
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-sc
-rpage.sty
-Package: scrlayer-scrpage 2023/07/07 v3.41 KOMA-Script package (end user interf
-ace for scrlayer)
-
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.st
-y
-Package: scrlayer 2023/07/07 v3.41 KOMA-Script package (defining layers and pag
-e styles)
-\footheight=\skip100
-Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 218
-3.
-)
-Package scrbase Info: Unknown processing state.
-(scrbase)             Processing option `markcase=used'
-(scrbase)             of member `.scrlayer-scrpage.sty' of family
-(scrbase)             `KOMA' doesn't set
-(scrbase)             a valid state. This will be interpreted
-(scrbase)             as \FamilyKeyStateProcessed on input line 649.
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarymatrix.code.tex
@@ -1631,44 +1631,45 @@ latorio_1.acn)...executed safely (allowed).
 \glo@main@file=\write6
 \openout6 = `Relatorio_1.glo'.
 
-Package glossaries Info: Writing glossary file Relatorio_1.glo on input line 11
+Package glossaries Info: Writing glossary file Relatorio_1.glo on input line 13
 .
 \glo@acronym@file=\write7
 \openout7 = `Relatorio_1.acn'.
 
-Package glossaries Info: Writing glossary file Relatorio_1.acn on input line 11
+Package glossaries Info: Writing glossary file Relatorio_1.acn on input line 13
 .
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 14
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
 .
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(Relatorio_1.aux (include/frontmatter/front.aux)
-(include/mainmatter/section1.aux) (include/mainmatter/section2.aux)
-(include/mainmatter/section3.aux) (include/mainmatter/section4.aux)
-(include/mainmatter/section5.aux) (include/mainmatter/section6.aux))
+(Relatorio_1.aux (include/mainmatter/abstract_1.aux)
+(include/frontmatter/front.aux) (include/mainmatter/section1.aux)
+(include/mainmatter/section2.aux) (include/mainmatter/section3.aux)
+(include/mainmatter/section4.aux) (include/mainmatter/section5.aux)
+(include/mainmatter/section6.aux))
 \openout1 = `Relatorio_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1688,25 +1689,17 @@ ii
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@lstlisting=\count466
-Package scrhack Info: undefining \float@addtolists on input line 14.
+Package scrhack Info: undefining \float@addtolists on input line 16.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 14.
+rtuges.trsl' found. on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1750,91 +1743,97 @@ babelbib extension \bibsportuguese added to \extrasportuguese
 babelbib extension \btxifchangecaseoff added to \extrasportuguese
 babelbib: Use citation-dependent languages in bibliography
 babelbib: Set bibliography fall-back language to portuguese
-Package hyperref Info: Link coloring OFF on input line 14.
+Package hyperref Info: Link coloring OFF on input line 16.
 (Relatorio_1.out) (Relatorio_1.out)
 \@outlinefile=\write8
 \openout8 = `Relatorio_1.out'.
 
-\openout2 = `./include/frontmatter/front.aux'.
-
- (include/frontmatter/front.tex
 <./image/capa/ISEP_marca_cor_grande.png, id=54, 730.6497pt x 278.2395pt>
 File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
 <use ./image/capa/ISEP_marca_cor_grande.png>
 Package pdftex.def Info: ./image/capa/ISEP_marca_cor_grande.png  used on input 
-line 5.
+line 19.
 (pdftex.def)             Requested size: 438.3932pt x 166.94498pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
-.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+9.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
-.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+9.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-5.
+19.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-5.
+19.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 5.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+(Font)              <6> on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 5.
-
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 19
+.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \hbox (15.91661pt too wide) in paragraph at lines 5--5
+Overfull \hbox (15.91661pt too wide) in paragraph at lines 19--19
  [][] 
  []
 
 <./image/ROQ/ROQ.jpg, id=56, 288.07625pt x 110.4125pt>
 File: ./image/ROQ/ROQ.jpg Graphic file (type jpg)
 <use ./image/ROQ/ROQ.jpg>
-Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 5.
+Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 19.
 (pdftex.def)             Requested size: 144.03777pt x 55.2061pt.
 [1
 
 \openout5 = `Relatorio_1.ist'.
 
-
 {C:/Users/sergi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/serg
 i/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/sergi/Ap
 pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./image/capa/ISE
 P_marca_cor_grande.png> <./image/ROQ/ROQ.jpg>]
-(input/mainmatter/abstract_1.tex
+\openout2 = `./include/mainmatter/abstract_1.aux'.
+
+
+(include/mainmatter/abstract_1.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.9 \end{abstract}
-                   [1]) (Relatorio_1.toc
+                   [1
+
+])
+\openout2 = `./include/frontmatter/front.aux'.
+
+ (include/frontmatter/front.tex (Relatorio_1.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1850,8 +1849,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.7 \listoffigures
+l.5 \listoffigures
                    [1
+
+
+
 
 ] (Relatorio_1.lof)
 \tf@lof=\write10
@@ -2034,10 +2036,11 @@ babelbib: Using the BibTeX style's default font for `numeral'.
 
 
 
-] (Relatorio_1.ind) [14] (Relatorio_1.aux (include/frontmatter/front.aux)
-(include/mainmatter/section1.aux) (include/mainmatter/section2.aux)
-(include/mainmatter/section3.aux) (include/mainmatter/section4.aux)
-(include/mainmatter/section5.aux) (include/mainmatter/section6.aux))
+] [14] (Relatorio_1.aux (include/mainmatter/abstract_1.aux)
+(include/frontmatter/front.aux) (include/mainmatter/section1.aux)
+(include/mainmatter/section2.aux) (include/mainmatter/section3.aux)
+(include/mainmatter/section4.aux) (include/mainmatter/section5.aux)
+(include/mainmatter/section6.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -2045,16 +2048,16 @@ L3 programming layer <2020/03/25>
 Package rerunfilecheck Info: File `Relatorio_1.out' has not changed.
 (rerunfilecheck)             Checksum: 09E34CC7B4191C43998B446C910DD1FA;1821.
 Package rerunfilecheck Info: File `Relatorio_1.brf' has not changed.
-(rerunfilecheck)             Checksum: 4782FAA306B291C38D2B55125E64AADE;893.
+(rerunfilecheck)             Checksum: 9B17565D78EC49E68E363184A0E9B253;907.
  ) 
 Here is how much of TeX's memory you used:
- 64420 strings out of 474486
- 1493552 string characters out of 5743756
- 2293979 words of memory out of 5000000
- 85650 multiletter control sequences out of 15000+600000
+ 64390 strings out of 474486
+ 1493267 string characters out of 5743756
+ 2293924 words of memory out of 5000000
+ 85625 multiletter control sequences out of 15000+600000
  648571 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,20n,137p,2439b,1177s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,20n,134p,2431b,1177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
 b><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb
@@ -2072,7 +2075,7 @@ sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/se
 rgi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/serg
 i/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/serg
 i/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Relatorio_1.pdf (18 pages, 1200546 bytes).
+Output written on Relatorio_1.pdf (18 pages, 1200439 bytes).
 PDF statistics:
  335 PDF objects out of 1000 (max. 8388607)
  48 named destinations out of 1000 (max. 500000)
