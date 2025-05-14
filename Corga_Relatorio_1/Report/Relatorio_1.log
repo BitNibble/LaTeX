@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 00:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 08:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -855,26 +855,16 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks49
 \verbatim@in@stream=\read3
 )
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/babelbib\babelbib.sty
-Package: babelbib 2021/01/06 v1.34 babelbib: multilingual bibliographies
-\c@btxromaniannumeral=\count380
-)
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
-Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count381
-\c@@ppsavesec=\count382
-\c@@ppsaveapp=\count383
-)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count384
+\c@tracingmulticols=\count380
 \mult@box=\box77
 \multicol@leftmargin=\dimen265
-\c@unbalance=\count385
-\c@collectmore=\count386
-\doublecol@number=\count387
-\multicoltolerance=\count388
-\multicolpretolerance=\count389
+\c@unbalance=\count381
+\c@collectmore=\count382
+\doublecol@number=\count383
+\multicoltolerance=\count384
+\multicolpretolerance=\count385
 \full@width=\dimen266
 \page@free=\dimen267
 \premulticols=\dimen268
@@ -925,20 +915,20 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box118
 \@tempa=\box119
 \@tempa=\box120
-\c@minrows=\count390
-\c@columnbadness=\count391
-\c@finalcolumnbadness=\count392
+\c@minrows=\count386
+\c@columnbadness=\count387
+\c@finalcolumnbadness=\count388
 \last@try=\dimen271
 \multicolovershoot=\dimen272
 \multicolundershoot=\dimen273
 \mult@nat@firstbox=\box121
 \colbreak@box=\box122
-\mc@col@check@num=\count393
+\mc@col@check@num=\count389
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen274
-\c@nlinenum=\count394
+\c@nlinenum=\count390
 \TeXr@lab=\toks50
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
@@ -948,7 +938,7 @@ Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 \TX@old@col=\dimen277
 \TX@target=\dimen278
 \TX@delta=\dimen279
-\TX@cols=\count395
+\TX@cols=\count391
 \TX@ftn=\toks51
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
@@ -975,11 +965,11 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count396
+\c@checkoddpage=\count392
 ) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box123
-\sift@deathcycles=\count397
+\sift@deathcycles=\count393
 \@vwid@loff=\dimen292
 \@vwid@roff=\dimen293
 )) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
@@ -991,12 +981,12 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen294
 \enit@toks=\toks52
 \enit@inbox=\box125
-\enit@count@id=\count398
-\enitdp@description=\count399
+\enit@count@id=\count394
+\enitdp@description=\count395
 ) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-Package scrhack Info: loading setspace hack on input line 35.
+Package scrhack Info: loading setspace hack on input line 32.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\setspace.ha
 k
@@ -1008,20 +998,20 @@ eys2e.sty
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count400
-\l__lipsum_a_int=\count401
-\l__lipsum_b_int=\count402
+\g__lipsum_par_int=\count396
+\l__lipsum_a_int=\count397
+\l__lipsum_b_int=\count398
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/moreverb\moreverb.sty
 Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
-\tab@position=\count403
-\tab@size=\count404
-\listing@line=\count405
+\tab@position=\count399
+\tab@size=\count400
+\listing@line=\count401
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count406
+\c@r@tfl@t=\count402
 \rotFPtop=\skip97
 \rotFPbot=\skip98
 \rot@float@box=\box126
@@ -1032,7 +1022,24 @@ Package: romannum 2009/09/03 v1.0b roman numerals
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/stdclsdv\stdclsdv.sty
 Package: stdclsdv 2009/09/04 v1.1a Sectional divisions
-)) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+)) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/babelbib\babelbib.st
+y
+Package: babelbib 2021/01/06 v1.34 babelbib: multilingual bibliographies
+
+babelbib: portuguese.bdf loaded due to explicit package option portuguese
+
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/babelbib\portuguese.bdf
+File: portuguese.bdf 2021/01/06 v1.34 babelbib: multilingual bibliographies
+)
+\c@btxromaniannumeral=\count403
+)
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count404
+\c@@ppsavesec=\count405
+\c@@ppsaveapp=\count406
+)
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -1738,17 +1745,12 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-babelbib: Use citation-dependent languages in bibliography
-babelbib: Set bibliography fall-back language to portuguese
-babelbib: portuguese.bdf loaded because language portuguese defined.
-
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/babelbib\portuguese.bdf
-File: portuguese.bdf 2021/01/06 v1.34 babelbib: multilingual bibliographies
 babelbib extension \bibsportuguese added to \extrasportuguese
 babelbib extension \btxifchangecaseoff added to \extrasportuguese
-)
+babelbib: Use citation-dependent languages in bibliography
+babelbib: Set bibliography fall-back language to portuguese
 Package hyperref Info: Link coloring OFF on input line 12.
- (Relatorio_1.out) (Relatorio_1.out)
+(Relatorio_1.out) (Relatorio_1.out)
 \@outlinefile=\write8
 \openout8 = `Relatorio_1.out'.
 
@@ -2046,7 +2048,7 @@ Package rerunfilecheck Info: File `Relatorio_1.brf' has not changed.
 Here is how much of TeX's memory you used:
  62445 strings out of 474486
  1463200 string characters out of 5743756
- 2270381 words of memory out of 5000000
+ 2273132 words of memory out of 5000000
  83686 multiletter control sequences out of 15000+600000
  648571 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2068,7 +2070,7 @@ sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/se
 rgi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/serg
 i/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/serg
 i/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Relatorio_1.pdf (18 pages, 1200548 bytes).
+Output written on Relatorio_1.pdf (18 pages, 1200546 bytes).
 PDF statistics:
  335 PDF objects out of 1000 (max. 8388607)
  48 named destinations out of 1000 (max. 500000)
