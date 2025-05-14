@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -25,6 +25,23 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \bibindent=\dimen140
 )
 (input/preamble/reportpreamble/ReportPreamble.tex
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-01-04 L3 programming layer (loader) 
+
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box51
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
@@ -70,13 +87,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count196
+\babel@savecnt=\count198
 \U@D=\dimen141
 \l@unhyphenated=\language79
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count197
+\bbl@dirlevel=\count199
 
 *************************************
 * Local config file bblopts.cfg used
@@ -126,25 +143,9 @@ y
 Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 ) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-01-04 L3 programming layer (loader) 
-
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count198
-\l__pdf_internal_box=\box51
-))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
-
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
-Package: xparse 2023-10-10 L3 Experimental document command parser
-)
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count199
-))) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+))
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTleft=\skip50
 \LTright=\skip51
@@ -294,7 +295,7 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
-Package scrhack Info: loading listings hack on input line 30.
+Package scrhack Info: loading listings hack on input line 33.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\listings.ha
 k
@@ -1006,7 +1007,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 ) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-Package scrhack Info: loading setspace hack on input line 32.
+Package scrhack Info: loading setspace hack on input line 33.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\setspace.ha
 k
@@ -1157,7 +1158,7 @@ package with kernel methods
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 42.
+(scrhack)             need that hack, on input line 45.
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX

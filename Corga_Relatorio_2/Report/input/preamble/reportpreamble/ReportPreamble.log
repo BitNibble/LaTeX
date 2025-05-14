@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  13 MAY 2025 22:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -13,44 +13,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 \usepackage[utf8]{
-                       inputenc}
-\usepackage may only appear in the document preamble, i.e.,
-between \documentclass and \begin{document}.
-
-
-! LaTeX Error: \usepackage before \documentclass.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \usepackage[T1]{
-                     fontenc}
-\usepackage may only appear in the document preamble, i.e.,
-between \documentclass and \begin{document}.
-
-
-! LaTeX Error: \usepackage before \documentclass.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \usepackage{
-                 lmodern}
-\usepackage may only appear in the document preamble, i.e.,
-between \documentclass and \begin{document}.
-
-
-! LaTeX Error: \usepackage before \documentclass.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \usepackage[portuguese]{
-                             babel}
+l.16 \usepackage{
+                 etoolbox}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
 
@@ -62,6 +26,66 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.17 \usepackage{
+                 xparse}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \usepackage[utf8]{
+                       inputenc}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \usepackage[T1]{
+                     fontenc}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \usepackage{
+                 lmodern}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \usepackage[portuguese]{
+                             babel}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \usepackage{
                  scrbase} % Required for handling language-dependent names o...
 
 \usepackage may only appear in the document preamble, i.e.,
@@ -74,7 +98,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \usepackage{
+l.25 \usepackage{
                  scrhack} % Loads fixes for various packages
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -86,7 +110,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 \usepackage{
+l.26 \usepackage{
                  longtable} % Required for tables that span multiple pages
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -98,7 +122,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.20 \usepackage[dvipsnames, svgnames, table]{
+l.27 \usepackage[dvipsnames, svgnames, table]{
                                               xcolor} % Required for specify...
 
 \usepackage may only appear in the document preamble, i.e.,
@@ -111,7 +135,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \usepackage{
+l.28 \usepackage{
                  graphics}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -123,7 +147,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 \usepackage{
+l.29 \usepackage{
                  booktabs}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -135,7 +159,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \usepackage[autostyle=true]{
+l.30 \usepackage[autostyle=true]{
                                  csquotes}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -147,19 +171,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 \usepackage[hidelinks]{
-                            hyperref}
-\usepackage may only appear in the document preamble, i.e.,
-between \documentclass and \begin{document}.
-
-
-! LaTeX Error: \usepackage before \documentclass.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 \usepackage{
+l.31 \usepackage{
                  calc}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -171,7 +183,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \usepackage{
+l.32 \usepackage{
                  listings}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -292,7 +304,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 \usepackage{
+l.35 \usepackage{
                  siunitx}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -304,7 +316,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 \usepackage{
+l.36 \usepackage{
                  paralist}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -316,7 +328,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.31 \usepackage{
+l.37 \usepackage{
                  makeidx}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -328,7 +340,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \usepackage{
+l.38 \usepackage{
                  titlepic}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -340,7 +352,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 \usepackage{
+l.39 \usepackage{
                  ragged2e}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -352,7 +364,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 \usepackage{
+l.40 \usepackage{
                  blindtext}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -364,7 +376,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 \usepackage{
+l.41 \usepackage{
                  hyphsubst}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -376,7 +388,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 ...op=2cm,left=1.5cm,right=1.2cm,bottom=2cm]{
+l.42 ...op=2cm,left=1.5cm,right=1.2cm,bottom=2cm]{
                                                   geometry}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -388,7 +400,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 \usepackage{
+l.43 \usepackage{
                  graphicx}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -400,7 +412,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \usepackage[graphicx]{
+l.44 \usepackage[graphicx]{
                            realboxes}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -412,7 +424,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 \usepackage{
+l.45 \usepackage{
                  hyphenat}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -424,7 +436,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40 \usepackage{
+l.46 \usepackage{
                  color,colortbl}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -436,7 +448,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 \usepackage[dvipsnames, svgnames, table]{
+l.47 \usepackage[dvipsnames, svgnames, table]{
                                               xcolor}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
@@ -448,7 +460,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 ...ge[acronym, toc, shortcuts, acronymlists={
+l.49 ...ge[acronym, toc, shortcuts, acronymlists={
                                                   hidden}, nopostdot, nogrou...
 
 \usepackage may only appear in the document preamble, i.e.,
@@ -461,7 +473,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 ...ym, toc, shortcuts, acronymlists={hidden},
+l.49 ...ym, toc, shortcuts, acronymlists={hidden},
                                                    nopostdot, nogroupskip, n...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -533,26 +545,34 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-! LaTeX Error: File `./input/preamble/extrapreamble/ExtraPreamble.tex' not foun
-d.
+! LaTeX Error: \usepackage before \documentclass.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \usepackage[markcase=used]{
+                                scrlayer-scrpage}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
 
-Enter file name: 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 49--54
+[]
+ []
+
+)
 ! Emergency stop.
-<read *> 
-         
-l.47 ...nput/preamble/extrapreamble/ExtraPreamble}
-                                                  ^^M
-*** (cannot \read from terminal in nonstop modes)
+<*> ./ReportPreamble.tex
+                        
+*** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
- 4163 strings out of 474486
- 95891 string characters out of 5743756
+ 4161 strings out of 474486
+ 95791 string characters out of 5743756
  1924542 words of memory out of 5000000
- 26464 multiletter control sequences out of 15000+600000
+ 26462 multiletter control sequences out of 15000+600000
  558069 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,0n,85p,531b,23s stack positions out of 10000i,1000n,20000p,200000b,200000s

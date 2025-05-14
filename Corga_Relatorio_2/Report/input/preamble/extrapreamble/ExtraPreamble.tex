@@ -15,9 +15,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %add extra packages if needed here
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{etoolbox}
-\usepackage{xparse}
-\usepackage[font=small, labelfont=bf]{caption}
+\usepackage[font=small, labelfont=bf]{caption} % caption for figures and tables
 \usepackage{hyphenat}
 \usepackage{multicol}
 \usepackage{makecell}
@@ -25,18 +23,23 @@
 \usepackage{tabularx}
 \usepackage[export]{adjustbox}
 \usepackage{eurosym}
-\usepackage{enumitem} %% conflict never put enumitem with enumerate
-%\usepackage{enumerate} %% conflict never put enumitem with enumerate
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Choice enumitem or enumerate
+\usepackage{enumitem}
+%\usepackage{enumerate}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{longtable}
 \usepackage{setspace}
 \usepackage{lipsum}
 \usepackage{moreverb}
 \usepackage{rotating}
 \usepackage{romannum}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage[portuguese]{babelbib}
-\usepackage[toc, page]{appendix}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Choice biblatex or babelbib
+%\usepackage{biblatex} % \addbibresource{<location>} and \printbibliography
+\usepackage[portuguese]{babelbib} % \bibliographystyle{<style>} and \bibliography{<location>}, remove '@' to comment out in bib file
+\usepackage[toc, page]{appendix} % \appendix then \include{<location file>}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{url}
 \usepackage[hidelinks]{hyperref}
 \usepackage[hyperpageref]{backref}
@@ -46,14 +49,11 @@
 \usepackage{circuitikz}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[tickmarkheight=5em,textwidth=\marginparwidth,textsize=small]{todonotes} % insert small notes [\todo[inline]{<message>} and \listoftodos]
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usetikzlibrary{matrix, shapes.geometric, arrows, trees, positioning, calc}
 \graphicspath{{image/}{image/logo/}{figure/}}
-%\selectbiblanguage{portuguese}
-%\setbtxfallbacklanguage{english}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \bibliographystyle{babplain}
 %\bibliographystyle{plain}
 %\bibliographystyle{ieeetr}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
