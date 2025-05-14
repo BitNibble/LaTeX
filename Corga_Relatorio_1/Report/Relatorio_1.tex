@@ -3,6 +3,8 @@
 \input{./input/preamble/reportpreamble/ReportPreamble}
 \input{./input/NewCommand}
 \input{./input/reporttitle/ReportTitle_1}
+\input{./input/frontmatter/glossary_2}
+\input{./input/frontmatter/acronym_1}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeindex
@@ -11,7 +13,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \include{./include/frontmatter/front}
-%\listoftodos
+%\gls{gloss}
+%\ac{twi}
+%\todo[inline]{Most up to date model 14052025}
 
 \pagestyle{plain} %plain headings empty
 \setlength{\parindent}{0in}

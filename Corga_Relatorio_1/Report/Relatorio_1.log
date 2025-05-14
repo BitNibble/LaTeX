@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 08:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1614,7 +1614,8 @@ File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 z/libraries\tikzlibrarytrees.code.tex
 File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (input/NewCommand.tex)
-(input/reporttitle/ReportTitle_1.tex)
+(input/reporttitle/ReportTitle_1.tex) (input/frontmatter/glossary_2.tex)
+(input/frontmatter/acronym_1.tex)
 \@indexfile=\write4
 \openout4 = `Relatorio_1.idx'.
 
@@ -1630,16 +1631,16 @@ latorio_1.acn)...executed safely (allowed).
 \glo@main@file=\write6
 \openout6 = `Relatorio_1.glo'.
 
-Package glossaries Info: Writing glossary file Relatorio_1.glo on input line 9.
-
+Package glossaries Info: Writing glossary file Relatorio_1.glo on input line 11
+.
 \glo@acronym@file=\write7
 \openout7 = `Relatorio_1.acn'.
 
-Package glossaries Info: Writing glossary file Relatorio_1.acn on input line 9.
-
+Package glossaries Info: Writing glossary file Relatorio_1.acn on input line 11
+.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 12
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 14
 .
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1650,24 +1651,24 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (include/mainmatter/section5.aux) (include/mainmatter/section6.aux))
 \openout1 = `Relatorio_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1703,9 +1704,9 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@lstlisting=\count466
-Package scrhack Info: undefining \float@addtolists on input line 12.
+Package scrhack Info: undefining \float@addtolists on input line 14.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 12.
+rtuges.trsl' found. on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1749,7 +1750,7 @@ babelbib extension \bibsportuguese added to \extrasportuguese
 babelbib extension \btxifchangecaseoff added to \extrasportuguese
 babelbib: Use citation-dependent languages in bibliography
 babelbib: Set bibliography fall-back language to portuguese
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 14.
 (Relatorio_1.out) (Relatorio_1.out)
 \@outlinefile=\write8
 \openout8 = `Relatorio_1.out'.
@@ -1761,62 +1762,62 @@ Package hyperref Info: Link coloring OFF on input line 12.
 File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
 <use ./image/capa/ISEP_marca_cor_grande.png>
 Package pdftex.def Info: ./image/capa/ISEP_marca_cor_grande.png  used on input 
-line 3.
+line 5.
 (pdftex.def)             Requested size: 438.3932pt x 166.94498pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
 .
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
 .
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-3.
+5.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-3.
+5.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+(Font)              <6> on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 5.
 
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \hbox (15.91661pt too wide) in paragraph at lines 3--3
+Overfull \hbox (15.91661pt too wide) in paragraph at lines 5--5
  [][] 
  []
 
 <./image/ROQ/ROQ.jpg, id=56, 288.07625pt x 110.4125pt>
 File: ./image/ROQ/ROQ.jpg Graphic file (type jpg)
 <use ./image/ROQ/ROQ.jpg>
-Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 3.
+Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 5.
 (pdftex.def)             Requested size: 144.03777pt x 55.2061pt.
 [1
 
@@ -1827,7 +1828,7 @@ Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 3.
 i/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/sergi/Ap
 pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./image/capa/ISE
 P_marca_cor_grande.png> <./image/ROQ/ROQ.jpg>]
-(input/frontmatter/abstract_1.tex
+(input/mainmatter/abstract_1.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1849,20 +1850,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.5 \listoffigures
+l.7 \listoffigures
                    [1
 
 ] (Relatorio_1.lof)
 \tf@lof=\write10
 \openout10 = `Relatorio_1.lof'.
 
-) (Relatorio_1.gls) [2
+ (Relatorio_1.gls) (Relatorio_1.acr))
+[2
 
 ]
 \openout2 = `./include/mainmatter/section1.aux'.
 
-
-(include/mainmatter/section1.tex) [1
+ (include/mainmatter/section1.tex) [1
 
 
 
@@ -1876,7 +1877,8 @@ File: ./image/OB/OB_contributions.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./image/OB/OB_contributions.jpg  used on input line 8.
 
 (pdftex.def)             Requested size: 305.34251pt x 326.22063pt.
- [2
+
+[2
 
 
 
@@ -2046,10 +2048,10 @@ Package rerunfilecheck Info: File `Relatorio_1.brf' has not changed.
 (rerunfilecheck)             Checksum: 4782FAA306B291C38D2B55125E64AADE;893.
  ) 
 Here is how much of TeX's memory you used:
- 62445 strings out of 474486
- 1463200 string characters out of 5743756
- 2273132 words of memory out of 5000000
- 83686 multiletter control sequences out of 15000+600000
+ 64420 strings out of 474486
+ 1493552 string characters out of 5743756
+ 2293979 words of memory out of 5000000
+ 85650 multiletter control sequences out of 15000+600000
  648571 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,20n,137p,2439b,1177s stack positions out of 10000i,1000n,20000p,200000b,200000s
