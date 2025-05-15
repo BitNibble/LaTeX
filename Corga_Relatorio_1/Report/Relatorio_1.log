@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  15 MAY 2025 20:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  15 MAY 2025 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1986,17 +1986,12 @@ nas/NEXTP18-600x6001-275x275.jpg> <./image/ROQ/maquinas/PRO-600x600-275x275.jpg
 \openout2 = `./include/mainmatter/section4.aux'.
 
  (include/mainmatter/section4.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-5.
-
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [7
+[7
 
 
 
-{C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}])
-[8]
+{C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}
+]) [8]
 \openout2 = `./include/mainmatter/section5.aux'.
 
  (include/mainmatter/section5.tex
@@ -2020,10 +2015,18 @@ File: ./image/OB/Ogbonna_Harris.jpg Graphic file (type jpg)
 <use ./image/OB/Ogbonna_Harris.jpg>
 Package pdftex.def Info: ./image/OB/Ogbonna_Harris.jpg  used on input line 59.
 (pdftex.def)             Requested size: 427.90503pt x 213.6012pt.
- [10 <./image/OB/Culture.jpg> <./image/OB/Ogbonna_Harris.jpg>]
+
+[10 <./image/OB/Culture.jpg> <./image/OB/Ogbonna_Harris.jpg>]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+4.
+
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 116.
-) [11]
+) [11{C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.en
+c}]
 \openout2 = `./include/mainmatter/section6.aux'.
 
 
@@ -2066,9 +2069,9 @@ Package rerunfilecheck Info: File `Relatorio_1.brf' has not changed.
 (rerunfilecheck)             Checksum: 4782FAA306B291C38D2B55125E64AADE;893.
  ) 
 Here is how much of TeX's memory you used:
- 64488 strings out of 474486
- 1494627 string characters out of 5743756
- 2298418 words of memory out of 5000000
+ 64489 strings out of 474486
+ 1494640 string characters out of 5743756
+ 2298421 words of memory out of 5000000
  85723 multiletter control sequences out of 15000+600000
  648571 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2089,10 +2092,11 @@ s/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/
 sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/se
 rgi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/serg
 i/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/serg
-i/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Relatorio_1.pdf (18 pages, 1200338 bytes).
+i/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/serg
+i/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on Relatorio_1.pdf (18 pages, 1204737 bytes).
 PDF statistics:
- 335 PDF objects out of 1000 (max. 8388607)
+ 341 PDF objects out of 1000 (max. 8388607)
  48 named destinations out of 1000 (max. 500000)
  184 words of extra memory for PDF output out of 10000 (max. 10000000)
 
