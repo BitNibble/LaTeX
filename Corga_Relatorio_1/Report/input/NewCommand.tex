@@ -1,8 +1,8 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 							%%%COMMAND%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \def\thesection{\arabic{section}} % \alph or \arabic or \roman
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\emptyline}{\hfill \vspace{\baselineskip} \newline}
 \newcommand{\emptyspace}[1]{\hfill \vspace{#1} \newline}
 \newcommand{\minipagespace}[1]{\hfill \newline \vspace{#1} \newline}
@@ -11,22 +11,28 @@
 \newcommand{\graphicspace}[1]{\hfill \vspace{#1} \newline}
 \newcommand{\listingspace}[1]{\hfill \vspace{#1} \newline}
 \newcommand{\equationspace}[1]{\hfill \vspace{#1} \newline}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand\acrfullr[2][]{\acrshort[#1]{#2} (\acrlong[#1]{#2})}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \def\mcirc{\mathbin{\scalerel*{\bigcirc}{t}}}
 \def\msquare{\mathord{\scalerel*{\Box}{gX}}}
 \def\ce{\mathrm{e}}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
 \definecolor{codepurple}{rgb}{0.58,0,0.82}
 \definecolor{codebackcolour}{rgb}{0.95,0.95,0.92}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{light-gray}{gray}{0.95}
+\definecolor{lightgray}{rgb}{.9,.9,.9}
+\definecolor{mypink1}{rgb}{0.858, 0.188, 0.478}
+\definecolor{mypink2}{RGB}{219, 48, 122}
+\definecolor{mypink3}{cmyk}{0, 0.7808, 0.4429, 0.1412}
+\definecolor{mygray}{gray}{0.6}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \lstdefinestyle{CLanguageStyle}{
     belowcaptionskip=1\baselineskip,
     backgroundcolor=\color{codebackcolour},   
@@ -45,4 +51,19 @@
     showtabs=false,                  
     tabsize=2,
 }
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlistdepth{12}
+\newlist{enumitem}{enumerate}{12}
+\setlist[enumitem,1]{label=\roman*)}
+\setlist[enumitem,2]{label=\alph*)}
+\setlist[enumitem,3]{label=\arabic*)}
+\setlist[enumitem,4]{label=(\roman*)}
+\setlist[enumitem,5]{label=(\alph*)}
+\setlist[enumitem,6]{label=(\arabic*)}
+\setlist[enumitem,7]{label=\roman*)}
+\setlist[enumitem,8]{label=\alph*)}
+\setlist[enumitem,9]{label=\arabic*)}
+\setlist[enumitem,10]{label=(\roman*)}
+\setlist[enumitem,11]{label=(\alph*)}
+\setlist[enumitem,12]{label=(\arabic*)}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

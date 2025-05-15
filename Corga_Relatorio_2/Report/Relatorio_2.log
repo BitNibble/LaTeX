@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  15 MAY 2025 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  15 MAY 2025 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1614,7 +1614,21 @@ File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarytrees.code.tex
 File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (input/NewCommand.tex)
+)) (input/NewCommand.tex
+\c@enumitemi=\count460
+\c@enumitemii=\count461
+\c@enumitemiii=\count462
+\c@enumitemiv=\count463
+\c@enumitemv=\count464
+\c@enumitemvi=\count465
+\c@enumitemvii=\count466
+\c@enumitemviii=\count467
+\c@enumitemix=\count468
+\c@enumitemx=\count469
+\c@enumitemxi=\count470
+\c@enumitemxii=\count471
+\enitdp@enumitem=\count472
+)
 (input/reporttitle/ReportTitle_2.tex) (input/frontmatter/glossary_2.tex)
 (input/frontmatter/acronym_1.tex)
 \@indexfile=\write4
@@ -1673,16 +1687,16 @@ LaTeX Font Info:    ... okay on input line 16.
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count460
+\scratchcounter=\count473
 \scratchdimen=\dimen371
 \scratchbox=\box140
-\nofMPsegments=\count461
-\nofMParguments=\count462
+\nofMPsegments=\count474
+\nofMParguments=\count475
 \everyMPshowfont=\toks62
-\MPscratchCnt=\count463
+\MPscratchCnt=\count476
 \MPscratchDim=\dimen372
-\MPnumerator=\count464
-\makeMPintoPDFobject=\count465
+\MPnumerator=\count477
+\makeMPintoPDFobject=\count478
 \everyMPtoPDFconversion=\toks63
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -1695,7 +1709,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count466
+\c@lstlisting=\count479
 Package scrhack Info: undefining \float@addtolists on input line 16.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
 rtuges.trsl' found. on input line 16.
@@ -1981,12 +1995,7 @@ Overfull \hbox (13.46664pt too wide) in paragraph at lines 38--82
 []
  []
 
-))
-Underfull \hbox (badness 10000) in paragraph at lines 83--34
-
- []
-
-[10] [11]
+)) [10] [11]
 \openout2 = `./include/mainmatter/section3.aux'.
 
  (include/mainmatter/section3.tex)
@@ -2061,10 +2070,10 @@ Package rerunfilecheck Info: File `Relatorio_2.brf' has not changed.
 (rerunfilecheck)             Checksum: EBB495904AFB13E7647A7D092112712E;1003.
  ) 
 Here is how much of TeX's memory you used:
- 64344 strings out of 474486
- 1489656 string characters out of 5743756
- 2293433 words of memory out of 5000000
- 85587 multiletter control sequences out of 15000+600000
+ 64437 strings out of 474486
+ 1490925 string characters out of 5743756
+ 2295673 words of memory out of 5000000
+ 85680 multiletter control sequences out of 15000+600000
  645485 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,20n,134p,2431b,1003s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2087,7 +2096,7 @@ sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on Relatorio_2.pdf (18 pages, 853157 bytes).
+Output written on Relatorio_2.pdf (18 pages, 853482 bytes).
 PDF statistics:
  356 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
