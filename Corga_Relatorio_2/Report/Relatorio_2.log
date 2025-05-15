@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  15 MAY 2025 14:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  15 MAY 2025 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1632,16 +1632,16 @@ latorio_2.acn)...executed safely (allowed).
 \glo@main@file=\write6
 \openout6 = `Relatorio_2.glo'.
 
-Package glossaries Info: Writing glossary file Relatorio_2.glo on input line 11
+Package glossaries Info: Writing glossary file Relatorio_2.glo on input line 13
 .
 \glo@acronym@file=\write7
 \openout7 = `Relatorio_2.acn'.
 
-Package glossaries Info: Writing glossary file Relatorio_2.acn on input line 11
+Package glossaries Info: Writing glossary file Relatorio_2.acn on input line 13
 .
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 14
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
 .
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1651,24 +1651,24 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (include/mainmatter/section2.aux) (include/mainmatter/section3.aux))
 \openout1 = `Relatorio_2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1696,9 +1696,9 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@lstlisting=\count466
-Package scrhack Info: undefining \float@addtolists on input line 14.
+Package scrhack Info: undefining \float@addtolists on input line 16.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 14.
+rtuges.trsl' found. on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1742,7 +1742,7 @@ babelbib extension \bibsportuguese added to \extrasportuguese
 babelbib extension \btxifchangecaseoff added to \extrasportuguese
 babelbib: Use citation-dependent languages in bibliography
 babelbib: Set bibliography fall-back language to portuguese
-Package hyperref Info: Link coloring OFF on input line 14.
+Package hyperref Info: Link coloring OFF on input line 16.
 (Relatorio_2.out) (Relatorio_2.out)
 \@outlinefile=\write8
 \openout8 = `Relatorio_2.out'.
@@ -1751,57 +1751,57 @@ Package hyperref Info: Link coloring OFF on input line 14.
 File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
 <use ./image/capa/ISEP_marca_cor_grande.png>
 Package pdftex.def Info: ./image/capa/ISEP_marca_cor_grande.png  used on input 
-line 17.
+line 19.
 (pdftex.def)             Requested size: 438.3932pt x 166.94498pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-7.
+9.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-7.
+9.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-17.
+19.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-17.
+19.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 17.
+(Font)              <12> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 17.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 17.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+(Font)              <6> on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
 
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
 
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 17
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 19
 .
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \hbox (15.91661pt too wide) in paragraph at lines 17--17
+Overfull \hbox (15.91661pt too wide) in paragraph at lines 19--19
  [][] 
  []
 
@@ -1816,16 +1816,6 @@ P_marca_cor_grande.png>]
 \openout2 = `./include/mainmatter/abstract_2.aux'.
 
  (include/mainmatter/abstract_2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
-
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1875,11 +1865,6 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 3--24
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 3--24
 
  []
@@ -1963,42 +1948,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--2
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
-
 ) (input/mainmatter/sergio1020881.tex
 Overfull \hbox (2.2222pt too wide) in paragraph at lines 4--1
 [] []
  []
 
-[8]
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--1
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-<./image/Skills/Managerial_Skills_for_the_Global_Marketplace.jpg, id=186, 942.5
+<./image/Skills/Managerial_Skills_for_the_Global_Marketplace.jpg, id=181, 942.5
 2126pt x 480.79625pt>
 File: ./image/Skills/Managerial_Skills_for_the_Global_Marketplace.jpg Graphic f
 ile (type jpg)
@@ -2011,46 +1976,51 @@ Overfull \hbox (7.91266pt too wide) in paragraph at lines 2--36
 []$ $[]$
  []
 
-[9 <./image/Skills/Managerial_Skills_for_the_Global_Marketplace.jpg>]
+[8] [9 <./image/Skills/Managerial_Skills_for_the_Global_Marketplace.jpg>]
 Overfull \hbox (13.46664pt too wide) in paragraph at lines 38--82
 []
  []
 
-)) [10] [11]
+))
+Underfull \hbox (badness 10000) in paragraph at lines 83--34
+
+ []
+
+[10] [11]
 \openout2 = `./include/mainmatter/section3.aux'.
 
  (include/mainmatter/section3.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--35
 
  []
 
@@ -2093,11 +2063,11 @@ Package rerunfilecheck Info: File `Relatorio_2.brf' has not changed.
 Here is how much of TeX's memory you used:
  64344 strings out of 474486
  1489656 string characters out of 5743756
- 2289433 words of memory out of 5000000
+ 2293433 words of memory out of 5000000
  85587 multiletter control sequences out of 15000+600000
  645485 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,20n,134p,2431b,1001s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,20n,134p,2431b,1003s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/eurosym/feym
 r10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb
 x10.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb
@@ -2117,7 +2087,7 @@ sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on Relatorio_2.pdf (18 pages, 853526 bytes).
+Output written on Relatorio_2.pdf (18 pages, 853157 bytes).
 PDF statistics:
  356 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
