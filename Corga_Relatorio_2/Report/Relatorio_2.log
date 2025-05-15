@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  14 MAY 2025 22:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  15 MAY 2025 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -42,13 +42,13 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ))
 Package: xparse 2023-10-10 L3 Experimental document command parser
 )
+(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
@@ -295,7 +295,7 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
-Package scrhack Info: loading listings hack on input line 33.
+Package scrhack Info: loading listings hack on input line 39.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\listings.ha
 k
@@ -1007,7 +1007,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 ) (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-Package scrhack Info: loading setspace hack on input line 33.
+Package scrhack Info: loading setspace hack on input line 32.
 
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\setspace.ha
 k
@@ -1158,7 +1158,7 @@ package with kernel methods
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 45.
+(scrhack)             need that hack, on input line 44.
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
@@ -2088,13 +2088,13 @@ L3 programming layer <2020/03/25>
 Package rerunfilecheck Info: File `Relatorio_2.out' has not changed.
 (rerunfilecheck)             Checksum: BC5A1514C72D020CA3D2B4F83BF4E5AA;2074.
 Package rerunfilecheck Info: File `Relatorio_2.brf' has not changed.
-(rerunfilecheck)             Checksum: EE0853C2F3936E55B08CE331E751608F;1023.
+(rerunfilecheck)             Checksum: EBB495904AFB13E7647A7D092112712E;1003.
  ) 
 Here is how much of TeX's memory you used:
- 64339 strings out of 474486
- 1489565 string characters out of 5743756
- 2288827 words of memory out of 5000000
- 85582 multiletter control sequences out of 15000+600000
+ 64344 strings out of 474486
+ 1489656 string characters out of 5743756
+ 2289433 words of memory out of 5000000
+ 85587 multiletter control sequences out of 15000+600000
  645485 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,20n,134p,2431b,1001s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2117,7 +2117,7 @@ sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/U
 sers/sergi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on Relatorio_2.pdf (18 pages, 853714 bytes).
+Output written on Relatorio_2.pdf (18 pages, 853526 bytes).
 PDF statistics:
  356 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)

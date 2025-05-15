@@ -16,8 +16,11 @@
 \usepackage{etoolbox}
 \usepackage{xparse}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+%\usepackage{inputenc}
+\usepackage[utf8]{inputenc}
+%\usepackage[latin1]{inputenc} % bad behavior
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{lmodern}
 \usepackage[portuguese]{babel}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -26,15 +29,17 @@
 \usepackage{longtable} % Required for tables that span multiple pages 
 \usepackage[dvipsnames, svgnames, table]{xcolor} % Required for specifying custom colours
 \usepackage{graphics}
-\usepackage{booktabs}
+\usepackage{booktabs} % enhances the quality of tables in LaTeX
 \usepackage[autostyle=true]{csquotes}
-\usepackage{calc}
-\usepackage{listings}
-\RequirePackage[calc,portuguese]{datetime2}	% For date format
-%\usepackage[calc, en-US]{datetime2}
-\usepackage{siunitx}
-\usepackage{paralist}
-\usepackage{makeidx}
+\usepackage{calc} % \setcounter, \addtocounter, \setlength, and \addtolength
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{listings} % \begin{lstlisting}[language=Python] \end{lstlisting} or \lstinputlisting[caption=<name>, language=Octave, firstline=2, lastline=12]{<filename>.m}, personalize \lstdefinestyle{<name>}{<parameter>}
+%\usepackage{listingsutf8}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\RequirePackage[calc, portuguese]{datetime2} % For date format
+\usepackage{siunitx} % SI units system
+\usepackage{paralist} % Provides enumerate and itemize environments
+\usepackage{makeidx} % Standard package for creating indexes
 \usepackage{titlepic}
 \usepackage{ragged2e}
 \usepackage{blindtext}
