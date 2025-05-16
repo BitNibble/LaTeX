@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  15 MAY 2025 23:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  16 MAY 2025 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1740,7 +1740,12 @@ File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \c@enumitemxi=\count471
 \c@enumitemxii=\count472
 \enitdp@enumitem=\count473
+\c@theorem=\count474
+\c@lemma=\count475
+\c@definition=\count476
 )
+\c@notation=\count477
+
 (input/reporttitle/ReportTitle_1.tex) (input/frontmatter/glossary_2.tex)
 (input/frontmatter/acronym_1.tex)
 \@indexfile=\write4
@@ -1754,6 +1759,9 @@ latorio_1.glo)...executed safely (allowed).
 runsystem(makeindex -s Relatorio_1.ist -t Relatorio_1.alg -o Relatorio_1.acr Re
 latorio_1.acn)...executed safely (allowed).
 
+runsystem(makeindex -s Relatorio_1.ist -t Relatorio_1.algh -o Relatorio_1.acrh 
+Relatorio_1.acnh)...executed safely (allowed).
+
 \glswrite=\write5
 \glo@main@file=\write6
 \openout6 = `Relatorio_1.glo'.
@@ -1765,6 +1773,11 @@ Package glossaries Info: Writing glossary file Relatorio_1.glo on input line 13
 
 Package glossaries Info: Writing glossary file Relatorio_1.acn on input line 13
 .
+\glo@hidden@file=\write8
+\openout8 = `Relatorio_1.acnh'.
+
+Package glossaries Info: Writing glossary file Relatorio_1.acnh on input line 1
+3.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
@@ -1772,7 +1785,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(Relatorio_1.aux (include/mainmatter/abstract_1.aux)
+(Relatorio_1.aux (include/frontmatter/abstract_1.aux)
 (include/frontmatter/front.aux) (include/mainmatter/section1.aux)
 (include/mainmatter/section2.aux) (include/mainmatter/section3.aux)
 (include/mainmatter/section4.aux) (include/mainmatter/section5.aux)
@@ -1801,16 +1814,16 @@ LaTeX Font Info:    ... okay on input line 16.
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count474
+\scratchcounter=\count478
 \scratchdimen=\dimen379
 \scratchbox=\box141
-\nofMPsegments=\count475
-\nofMParguments=\count476
+\nofMPsegments=\count479
+\nofMParguments=\count480
 \everyMPshowfont=\toks62
-\MPscratchCnt=\count477
+\MPscratchCnt=\count481
 \MPscratchDim=\dimen380
-\MPnumerator=\count478
-\makeMPintoPDFobject=\count479
+\MPnumerator=\count482
+\makeMPintoPDFobject=\count483
 \everyMPtoPDFconversion=\toks63
 )
 (C:\Users\sergi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -1823,7 +1836,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count480
+\c@lstlisting=\count484
 Package scrhack Info: undefining \float@addtolists on input line 16.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
 rtuges.trsl' found. on input line 16.
@@ -1872,8 +1885,8 @@ babelbib: Use citation-dependent languages in bibliography
 babelbib: Set bibliography fall-back language to portuguese
 Package hyperref Info: Link coloring OFF on input line 16.
 (Relatorio_1.out) (Relatorio_1.out)
-\@outlinefile=\write8
-\openout8 = `Relatorio_1.out'.
+\@outlinefile=\write9
+\openout9 = `Relatorio_1.out'.
 
 <./image/capa/ISEP_marca_cor_grande.png, id=54, 730.6497pt x 278.2395pt>
 File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
@@ -1932,10 +1945,10 @@ Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 19.
 i/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/sergi/Ap
 pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./image/capa/ISE
 P_marca_cor_grande.png> <./image/ROQ/ROQ.jpg>]
-\openout2 = `./include/mainmatter/abstract_1.aux'.
+\openout2 = `./include/frontmatter/abstract_1.aux'.
 
 
-(include/mainmatter/abstract_1.tex
+(include/frontmatter/abstract_1.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1947,8 +1960,8 @@ l.9 \end{abstract}
 \openout2 = `./include/frontmatter/front.aux'.
 
  (include/frontmatter/front.tex (Relatorio_1.toc)
-\tf@toc=\write9
-\openout9 = `Relatorio_1.toc'.
+\tf@toc=\write10
+\openout10 = `Relatorio_1.toc'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
@@ -1962,11 +1975,11 @@ l.5 \listoffigures
 
 
 ] (Relatorio_1.lof)
-\tf@lof=\write10
-\openout10 = `Relatorio_1.lof'.
+\tf@lof=\write11
+\openout11 = `Relatorio_1.lof'.
 
- (Relatorio_1.gls) (Relatorio_1.acr))
-[2
+ (Relatorio_1.gls) (Relatorio_1.acr)
+(Relatorio_1.acrh)) [2
 
 ]
 \openout2 = `./include/mainmatter/section1.aux'.
@@ -1978,15 +1991,15 @@ l.5 \listoffigures
 ]
 \openout2 = `./include/mainmatter/section2.aux'.
 
- (include/mainmatter/section2.tex
+
+(include/mainmatter/section2.tex
 <./image/OB/OB_contributions.jpg, id=126, 587.19376pt x 627.34375pt>
 File: ./image/OB/OB_contributions.jpg Graphic file (type jpg)
 <use ./image/OB/OB_contributions.jpg>
 Package pdftex.def Info: ./image/OB/OB_contributions.jpg  used on input line 8.
 
 (pdftex.def)             Requested size: 305.34251pt x 326.22063pt.
-
-[2
+ [2
 
 
 
@@ -2122,8 +2135,8 @@ nc}]
 
 
 ] (Relatorio_1.bbl (Relatorio_1.brf)
-\tf@brf=\write11
-\openout11 = `Relatorio_1.brf'.
+\tf@brf=\write12
+\openout12 = `Relatorio_1.brf'.
 
 
 babelbib: Using the BibTeX style's default font for `name'.
@@ -2141,7 +2154,7 @@ babelbib: Using the BibTeX style's default font for `numeral'.
 
 
 
-] [14] (Relatorio_1.aux (include/mainmatter/abstract_1.aux)
+] [14] (Relatorio_1.aux (include/frontmatter/abstract_1.aux)
 (include/frontmatter/front.aux) (include/mainmatter/section1.aux)
 (include/mainmatter/section2.aux) (include/mainmatter/section3.aux)
 (include/mainmatter/section4.aux) (include/mainmatter/section5.aux)
@@ -2156,10 +2169,10 @@ Package rerunfilecheck Info: File `Relatorio_1.brf' has not changed.
 (rerunfilecheck)             Checksum: 4782FAA306B291C38D2B55125E64AADE;893.
  ) 
 Here is how much of TeX's memory you used:
- 68063 strings out of 474486
- 1555606 string characters out of 5743756
- 2332984 words of memory out of 5000000
- 89226 multiletter control sequences out of 15000+600000
+ 68377 strings out of 474486
+ 1561122 string characters out of 5743756
+ 2340933 words of memory out of 5000000
+ 89536 multiletter control sequences out of 15000+600000
  660637 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,20n,134p,2431b,1177s stack positions out of 10000i,1000n,20000p,200000b,200000s
