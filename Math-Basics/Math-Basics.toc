@@ -18,5 +18,5 @@
 \babel@toc {portuguese}{}\relax 
 \babel@toc {portuguese}{}\relax 
 \babel@toc {portuguese}{}\relax 
-\contentsline {chapter}{\numberline {A}Definições}{14}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Física}{15}{appendix.B}%
+\contentsline {chapter}{\numberline {A}Definições}{13}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Física}{14}{appendix.B}%

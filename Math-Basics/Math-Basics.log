@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  16 MAY 2025 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.1)  16 MAY 2025 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1799,8 +1799,7 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (include/mainmatter/section1.aux) (include/mainmatter/section2.aux)
 (include/mainmatter/section3.aux) (include/mainmatter/section4.aux)
 (include/mainmatter/section5.aux) (include/mainmatter/section6.aux)
-(include/mainmatter/section7.aux) (include/mainmatter/section8.aux)
-(include/mainmatter/section9.aux) (include/mainmatter/appendix.aux))
+(include/mainmatter/appendix.aux))
 \openout1 = `Math-Basics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -2027,21 +2026,22 @@ ymbol/MnSymbolA.enc}]
 \openout2 = `./include/mainmatter/section4.aux'.
 
  (include/mainmatter/section4.tex
-<image/dividebyzero.jpg, id=142, 1303.87125pt x 1677.26625pt>
-File: image/dividebyzero.jpg Graphic file (type jpg)
-<use image/dividebyzero.jpg>
-Package pdftex.def Info: image/dividebyzero.jpg  used on input line 4.
+<./image/dividebyzero.jpg, id=142, 1303.87125pt x 1677.26625pt>
+File: ./image/dividebyzero.jpg Graphic file (type jpg)
+<use ./image/dividebyzero.jpg>
+Package pdftex.def Info: ./image/dividebyzero.jpg  used on input line 4.
 (pdftex.def)             Requested size: 260.76962pt x 335.44731pt.
-<image/newgencomputer.jpg, id=143, 1911.14pt x 1589.94pt>
-File: image/newgencomputer.jpg Graphic file (type jpg)
-<use image/newgencomputer.jpg>
-Package pdftex.def Info: image/newgencomputer.jpg  used on input line 5.
+<./image/newgencomputer.jpg, id=143, 1911.14pt x 1589.94pt>
+File: ./image/newgencomputer.jpg Graphic file (type jpg)
+<use ./image/newgencomputer.jpg>
+Package pdftex.def Info: ./image/newgencomputer.jpg  used on input line 5.
 (pdftex.def)             Requested size: 229.3269pt x 190.78456pt.
- [5
+)
+[5
 
 
 
- <./image/dividebyzero.jpg> <./image/newgencomputer.jpg>])
+ <./image/dividebyzero.jpg> <./image/newgencomputer.jpg>]
 \openout2 = `./include/mainmatter/section5.aux'.
 
 
@@ -2086,28 +2086,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
 
  <./image/upsidedown.jpg>]
-<image/squareproperty.png, id=155, 436.63126pt x 432.61626pt>
-File: image/squareproperty.png Graphic file (type png)
-<use image/squareproperty.png>
-Package pdftex.def Info: image/squareproperty.png  used on input line 12.
+<./image/squareproperty.png, id=155, 436.63126pt x 432.61626pt>
+File: ./image/squareproperty.png Graphic file (type png)
+<use ./image/squareproperty.png>
+Package pdftex.def Info: ./image/squareproperty.png  used on input line 11.
 (pdftex.def)             Requested size: 218.3151pt x 216.3076pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--22
+Underfull \hbox (badness 10000) in paragraph at lines 8--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
@@ -2138,35 +2138,11 @@ iKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}])
 \openout2 = `./include/mainmatter/section6.aux'.
 
 
-(include/mainmatter/section6.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--35
-
- []
-
-[11
+(include/mainmatter/section6.tex) [11
 
 
 
-]
-\openout2 = `./include/mainmatter/section7.aux'.
-
- (include/mainmatter/section7.tex) [12
-
-
-
-]
-\openout2 = `./include/mainmatter/section8.aux'.
-
- (include/mainmatter/section8.tex)
-\openout2 = `./include/mainmatter/section9.aux'.
-
-
-(include/mainmatter/section9.tex) (Math-Basics.bbl (Math-Basics.brf)
+] (Math-Basics.bbl (Math-Basics.brf)
 \tf@brf=\write11
 \openout11 = `Math-Basics.brf'.
 
@@ -2182,13 +2158,7 @@ babelbib: Using the BibTeX style's default font for `ISBN'.
 babelbib: Using the BibTeX style's default font for `ISSN'.
 babelbib: Using the BibTeX style's default font for `url'.
 babelbib: Using the BibTeX style's default font for `numeral'.
-) [13
-
-
-
-
-
-
+) [12
 
 
 
@@ -2212,84 +2182,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--8
 
  []
 
-[14
+[13
 
 
 ]
 Ap\^endice B.
 (input/mainmatter/Physic-1.tex
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
  []
 
-<./image/General/Einstein.jpg, id=208, 255.95625pt x 179.16937pt>
+<./image/General/Einstein.jpg, id=204, 255.95625pt x 179.16937pt>
 File: ./image/General/Einstein.jpg Graphic file (type jpg)
 <use ./image/General/Einstein.jpg>
-Package pdftex.def Info: ./image/General/Einstein.jpg  used on input line 69.
+Package pdftex.def Info: ./image/General/Einstein.jpg  used on input line 78.
 (pdftex.def)             Requested size: 153.57492pt x 107.50244pt.
 ))
-Overfull \hbox (37.33398pt too wide) in paragraph at lines 25--43
-[]   [] 
- []
-
-
-Overfull \hbox (2.61105pt too wide) in paragraph at lines 25--43
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 9--39
 []$ $[]$ 
  []
 
 
-Overfull \hbox (2.61105pt too wide) in paragraph at lines 25--43
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 9--39
 []$ $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--43
+Underfull \hbox (badness 10000) in paragraph at lines 9--39
 
  []
 
-[15
+[14
 
- <./image/General/Einstein.jpg>]
+ <./image/General/Einstein.jpg>] [15]
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
@@ -2302,8 +2267,7 @@ This document will not have a glossary.
 (include/mainmatter/section1.aux) (include/mainmatter/section2.aux)
 (include/mainmatter/section3.aux) (include/mainmatter/section4.aux)
 (include/mainmatter/section5.aux) (include/mainmatter/section6.aux)
-(include/mainmatter/section7.aux) (include/mainmatter/section8.aux)
-(include/mainmatter/section9.aux) (include/mainmatter/appendix.aux))
+(include/mainmatter/appendix.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -2311,13 +2275,13 @@ L3 programming layer <2020/03/25>
 Package rerunfilecheck Info: File `Math-Basics.out' has not changed.
 (rerunfilecheck)             Checksum: 606F988B04F299AA0C6626EBDF006459;1740.
 Package rerunfilecheck Info: File `Math-Basics.brf' has not changed.
-(rerunfilecheck)             Checksum: 00AACDDDADC986A91297A30FD261292D;82.
+(rerunfilecheck)             Checksum: 4E0253A3AFD5BD6B5449575D33FC9310;82.
  ) 
 Here is how much of TeX's memory you used:
- 68418 strings out of 474486
- 1562609 string characters out of 5743756
- 2349302 words of memory out of 5000000
- 89544 multiletter control sequences out of 15000+600000
+ 68338 strings out of 474486
+ 1558714 string characters out of 5743756
+ 2345792 words of memory out of 5000000
+ 89484 multiletter control sequences out of 15000+600000
  669956 words of font info for 153 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,21n,134p,2431b,992s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2337,10 +2301,11 @@ eX/fonts/type1/public/lm/lmr7.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/lm/lmr8.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/lm/lmri12.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/lm/lmri8.pfb><C:/Users/sergi/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Math-Basics.pdf (18 pages, 2919292 bytes).
+nts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/sergi/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/hoekwater/stmary10.pfb>
+Output written on Math-Basics.pdf (18 pages, 2924572 bytes).
 PDF statistics:
- 339 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
+ 346 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
